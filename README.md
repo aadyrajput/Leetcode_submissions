@@ -1,3 +1,3 @@
 # Leetcode_submissions
-Here I submit my leetcode solutions
+Here I submit my LeetCode solutions
 Author-Aadarsh Singh <great man>
