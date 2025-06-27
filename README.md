@@ -20,4 +20,24 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Greedy
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Counting
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
