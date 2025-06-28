@@ -40,4 +40,20 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Array
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Sorting
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
