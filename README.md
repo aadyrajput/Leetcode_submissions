@@ -8,12 +8,14 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -25,6 +27,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 ## String
@@ -73,4 +76,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
