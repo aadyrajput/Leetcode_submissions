@@ -16,6 +16,7 @@ Author-Aadarsh Singh <great man>
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -36,6 +37,7 @@ Author-Aadarsh Singh <great man>
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Tree
@@ -50,6 +52,7 @@ Author-Aadarsh Singh <great man>
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String
