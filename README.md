@@ -69,6 +69,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3617-find-the-original-typed-string-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
