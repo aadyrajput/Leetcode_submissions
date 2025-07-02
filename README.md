@@ -40,6 +40,7 @@ Author-Aadarsh Singh <great man>
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0099-recover-binary-search-tree) |
@@ -101,6 +102,7 @@ Author-Aadarsh Singh <great man>
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
