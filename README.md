@@ -61,6 +61,7 @@ Author-Aadarsh Singh <great man>
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Author-Aadarsh Singh <great man>
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Author-Aadarsh Singh <great man>
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Author-Aadarsh Singh <great man>
 ## Prefix Sum
 |  |
 | ------- |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
