@@ -7,6 +7,7 @@ Author-Aadarsh Singh <great man>
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0099-recover-binary-search-tree) |
@@ -52,6 +53,7 @@ Author-Aadarsh Singh <great man>
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0099-recover-binary-search-tree) |
@@ -78,6 +80,7 @@ Author-Aadarsh Singh <great man>
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0099-recover-binary-search-tree) |
@@ -109,6 +112,7 @@ Author-Aadarsh Singh <great man>
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Greedy
@@ -197,6 +201,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
