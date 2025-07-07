@@ -19,6 +19,7 @@ Author-Aadarsh Singh <great man>
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -42,6 +43,7 @@ Author-Aadarsh Singh <great man>
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -96,6 +98,7 @@ Author-Aadarsh Singh <great man>
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -219,6 +222,7 @@ Author-Aadarsh Singh <great man>
 | [0111-minimum-depth-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -283,4 +287,5 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
