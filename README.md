@@ -15,6 +15,7 @@ Author-Aadarsh Singh <great man>
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -35,6 +36,7 @@ Author-Aadarsh Singh <great man>
 | [0099-recover-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -84,6 +86,7 @@ Author-Aadarsh Singh <great man>
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -106,6 +109,7 @@ Author-Aadarsh Singh <great man>
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Greedy
 |  |
