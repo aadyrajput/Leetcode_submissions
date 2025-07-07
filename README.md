@@ -16,6 +16,7 @@ Author-Aadarsh Singh <great man>
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -32,6 +33,7 @@ Author-Aadarsh Singh <great man>
 | [0099-recover-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -79,6 +81,7 @@ Author-Aadarsh Singh <great man>
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -191,6 +194,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0100-same-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Math
