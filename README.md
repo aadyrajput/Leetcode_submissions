@@ -174,6 +174,7 @@ Author-Aadarsh Singh <great man>
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
