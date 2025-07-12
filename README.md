@@ -167,6 +167,7 @@ Author-Aadarsh Singh <great man>
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0162-find-peak-element) |
@@ -280,6 +281,7 @@ Author-Aadarsh Singh <great man>
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
