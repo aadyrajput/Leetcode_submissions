@@ -126,6 +126,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3396-valid-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
