@@ -174,6 +174,7 @@ Author-Aadarsh Singh <great man>
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -266,6 +267,7 @@ Author-Aadarsh Singh <great man>
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
