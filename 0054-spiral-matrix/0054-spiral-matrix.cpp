@@ -1,39 +1,35 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int n = matrix[0].size() - 1;
-        int m = matrix.size() - 1;
-        int top = 0;
-        int right = n;
-        int left = 0;
-        int bottom = m;
+        int m=matrix.size();
+        int n=matrix[0].size();
+        int p1=0; int p2=m-1; int p3=0; int p4=n-1;
+        vector<int> ans;
 
-        vector<int> res;
-
-        while(top <= bottom && left <= right){
-            for(int i = left; i <= right; i++){
-                res.push_back(matrix[top][i]);
+        while(p1<=p2 && p3<=p4){
+            for(int i=p3; i<=p4; i++){
+                ans.push_back(matrix[p1][i]);
             }
-            top++;
-            for(int i = top; i <= bottom; i++){
-                res.push_back(matrix[i][right]);
+            p1++;
+            for(int i=p1; i<=p2; i++){
+                ans.push_back(matrix[i][p4]);
             }
-            right--;
+            p4--;
 
-            if(top <= bottom){
-                for(int i = right; i >= left; i--){
-                    res.push_back(matrix[bottom][i]);
+            if(p1<=p2){
+                for(int i=p4; i>=p3; i--){
+                    ans.push_back(matrix[p2][i]);
                 }
-                bottom--;
+                p2--;
+            }
+            if(p3<=p4){
+                for(int i=p2; i>=p1; i--){
+                       ans.push_back(matrix[i][p3]);
+                }
+                p3++;
             }
 
-            if(left <= right){
-                for(int i = bottom; i >= top; i--){
-                    res.push_back(matrix[i][left]);
-                }
-                left++;
             }
-        }
-        return res;
+        return ans;
     }
 };
