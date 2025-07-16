@@ -166,6 +166,7 @@ Author-Aadarsh Singh <great man>
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
@@ -343,12 +344,14 @@ Author-Aadarsh Singh <great man>
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
