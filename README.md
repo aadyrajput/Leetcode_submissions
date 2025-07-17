@@ -125,6 +125,7 @@ Author-Aadarsh Singh <great man>
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3396-valid-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3617-find-the-original-typed-string-i) |
@@ -333,6 +334,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
