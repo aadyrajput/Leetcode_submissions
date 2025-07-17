@@ -170,6 +170,7 @@ Author-Aadarsh Singh <great man>
 | [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
@@ -236,6 +237,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0015-3sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
