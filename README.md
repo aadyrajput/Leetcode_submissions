@@ -125,6 +125,7 @@ Author-Aadarsh Singh <great man>
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
