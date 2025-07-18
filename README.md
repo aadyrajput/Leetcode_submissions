@@ -126,6 +126,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
@@ -232,6 +233,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
@@ -324,6 +326,7 @@ Author-Aadarsh Singh <great man>
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
