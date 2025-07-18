@@ -3,7 +3,7 @@ public:
     bool rotateString(string s, string goal) {
        if(s.size()!=goal.size()) return false;
        s+=s;
-       return s.find(goal)!=string::npos;
+       return s.find(goal)<s.length();
 
     }
 };
