@@ -125,6 +125,7 @@ Author-Aadarsh Singh <great man>
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
@@ -166,6 +167,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -389,4 +391,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
