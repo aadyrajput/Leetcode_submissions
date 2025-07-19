@@ -151,6 +151,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
+| [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -208,6 +209,7 @@ Author-Aadarsh Singh <great man>
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
