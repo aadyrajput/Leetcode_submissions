@@ -233,6 +233,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -408,6 +409,7 @@ Author-Aadarsh Singh <great man>
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 ## Linked List
 |  |
 | ------- |
