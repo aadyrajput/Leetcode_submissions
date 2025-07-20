@@ -76,6 +76,7 @@ Author-Aadarsh Singh <great man>
 | [0162-find-peak-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -208,6 +209,7 @@ Author-Aadarsh Singh <great man>
 | [0162-find-peak-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
@@ -370,6 +372,7 @@ Author-Aadarsh Singh <great man>
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -415,6 +418,7 @@ Author-Aadarsh Singh <great man>
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 ## Linked List
 |  |
