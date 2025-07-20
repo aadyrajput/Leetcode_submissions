@@ -12,8 +12,7 @@ int maxInCol(int mid,vector<vector<int>>mat){
 }
 public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
-     int m=mat.size();
-     int n=mat[0].size();
+     int m=mat.size();  int n=mat[0].size();
      if(m==1 && n==1)return {0,0};
      int lo=0; int hi=n-1;
      while(lo<=hi){
@@ -30,7 +29,7 @@ public:
         }
         else lo=mid+1;
      }
-    return {0,0};
+    return {-1,-1};
 
     }
 };
