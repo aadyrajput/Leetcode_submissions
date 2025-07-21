@@ -350,6 +350,7 @@ Author-Aadarsh Singh <great man>
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
@@ -365,6 +366,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -405,6 +407,7 @@ Author-Aadarsh Singh <great man>
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
