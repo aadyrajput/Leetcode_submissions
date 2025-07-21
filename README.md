@@ -150,6 +150,7 @@ Author-Aadarsh Singh <great man>
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -199,6 +200,7 @@ Author-Aadarsh Singh <great man>
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -364,6 +366,7 @@ Author-Aadarsh Singh <great man>
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
