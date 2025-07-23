@@ -181,6 +181,7 @@ Author-Aadarsh Singh <great man>
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Array
@@ -214,6 +215,7 @@ Author-Aadarsh Singh <great man>
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
@@ -356,6 +358,7 @@ Author-Aadarsh Singh <great man>
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -460,4 +463,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
