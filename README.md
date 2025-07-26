@@ -437,6 +437,7 @@ Author-Aadarsh Singh <great man>
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -462,6 +463,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |
