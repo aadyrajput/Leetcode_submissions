@@ -299,6 +299,7 @@ Author-Aadarsh Singh <great man>
 | [0056-merge-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
@@ -330,6 +331,7 @@ Author-Aadarsh Singh <great man>
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
@@ -412,6 +414,7 @@ Author-Aadarsh Singh <great man>
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -474,6 +477,7 @@ Author-Aadarsh Singh <great man>
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0328-odd-even-linked-list) |
@@ -505,4 +509,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
