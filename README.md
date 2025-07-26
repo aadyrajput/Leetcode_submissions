@@ -376,6 +376,7 @@ Author-Aadarsh Singh <great man>
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
@@ -449,6 +450,7 @@ Author-Aadarsh Singh <great man>
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
@@ -474,6 +476,7 @@ Author-Aadarsh Singh <great man>
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
