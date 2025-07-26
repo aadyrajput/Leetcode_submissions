@@ -21,13 +21,11 @@ public:
         temp=head; ListNode* prev=NULL; 
         while(temp){
             ct++;
-            if(ct==ans) break;
+            if(ct==ans-1) break;
             prev=temp;
             temp=temp->next;
         }
-        prev->next=temp->next;
-        temp->next=NULL;
-        delete temp;
+        temp->next=temp->next->next;
         return head;
     }
 };
