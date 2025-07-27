@@ -203,6 +203,7 @@ Author-Aadarsh Singh <great man>
 | [0033-search-in-rotated-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0056-merge-intervals) |
@@ -333,6 +334,7 @@ Author-Aadarsh Singh <great man>
 | [0015-3sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -351,6 +353,7 @@ Author-Aadarsh Singh <great man>
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -426,6 +429,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -439,6 +443,7 @@ Author-Aadarsh Singh <great man>
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
