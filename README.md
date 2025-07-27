@@ -230,6 +230,7 @@ Author-Aadarsh Singh <great man>
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
@@ -430,6 +431,7 @@ Author-Aadarsh Singh <great man>
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
@@ -438,6 +440,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
