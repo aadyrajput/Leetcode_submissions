@@ -1,28 +1,23 @@
 class Solution {
 private:
-void fun(int ind,map<int,int> &m,vector<int> v,vector<int>&nums){
-if(ind==nums.size()){
-    int orr=0;
-    for(int i=0;i<v.size(); i++)orr= (orr|v[i]);
-    m[orr]++;
-    return;
+int fun(int ind,vector<int>&nums,int orr,int maxorr){
+  if(ind==nums.size()){
+    if(orr==maxorr)return 1;
+    return 0;
+  }
+  if(orr==maxorr){
+    int remain=nums.size()-ind;
+    return 1<<remain;
+  }
+    int take=fun(ind+1,nums,orr|nums[ind],maxorr);
+    int nottake=fun(ind+1,nums,orr,maxorr);
+    return take+nottake;
 }
-v.push_back(nums[ind]);
-fun(ind+1,m,v,nums);
-v.pop_back();
-fun(ind+1,m,v,nums);
-}
-
 public:
     int countMaxOrSubsets(vector<int>& nums) {
-        map<int,int> m;
-        vector<int> v;
-    fun(0,m,v,nums);
-    int ans=0;
-    for(auto it:m){
-        ans=it.second;
-    }
-    return ans;
+      int ans=0;
+      for(int i=0;i<nums.size();i++)ans=(ans|nums[i]);
+    return fun(0,nums,0,ans);
 
     }
 };
