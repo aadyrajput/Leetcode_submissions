@@ -1,23 +1,20 @@
 class Solution {
 private:
-void fun(int i,vector<int> temp,vector<int>&nums,set<vector<int>>&st){
-    if(i==nums.size()){
-        st.insert(temp);
-        return;
+void fun(vector<int>&nums,vector<vector<int>>&ans){
+  int n=nums.size();
+  int total=1<<n;
+  for(int i=0;i<total; i++){
+    vector<int> temp;
+    for(int j=0; j<n; j++){
+        if(i&(1<<j))temp.push_back(nums[j]);
     }
-    temp.push_back(nums[i]);
-    fun(i+1,temp,nums,st);
-    temp.pop_back();
-    fun(i+1,temp,nums,st);
-
+    ans.push_back(temp);
+  }
 }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        set<vector<int>> st;
-        vector<int> temp;
-        fun(0,temp,nums,st);
         vector<vector<int>> ans;
-        for(auto it:st)ans.push_back(it);
+        fun(nums,ans);
         return ans;
     }
 };
