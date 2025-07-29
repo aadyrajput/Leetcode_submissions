@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<int> smallestSubarrays(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> pos(31, -1);
-        vector<int> ans(n);
-        for (int i = n - 1; i >= 0; --i) {
-            int j = i;
-            for (int bit = 0; bit < 31; ++bit) {
-                if (!(nums[i] & (1 << bit))) {
-                    if (pos[bit] != -1) {
-                        j = max(j, pos[bit]);
+        vector<int> ans;
+        int maxOr=0;
+        vector<int> bits(32,-1);
+        for(int i=nums.size()-1; i>=0; i--){
+                maxOr|=nums[i];
+                int curr=nums[i];
+                for(int j=0; j<32; j++){
+                    if(curr & (1<<j)){
+                     bits[j]=i;
                     }
-                } else {
-                    pos[bit] = i;
                 }
-            }
-            ans[i] = j - i + 1;
-        }
+                int maxa=*max_element(bits.begin(),bits.end());
+                if(maxa==-1) ans.push_back(1);
+                else ans.push_back(maxa-i+1);
+                }
+            reverse(ans.begin(),ans.end());
         return ans;
     }
 };
