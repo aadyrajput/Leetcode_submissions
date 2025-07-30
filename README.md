@@ -241,6 +241,7 @@ Author-Aadarsh Singh <great man>
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -368,6 +369,7 @@ Author-Aadarsh Singh <great man>
 | [0152-maximum-product-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -445,6 +447,7 @@ Author-Aadarsh Singh <great man>
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -454,6 +457,7 @@ Author-Aadarsh Singh <great man>
 | [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
