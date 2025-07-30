@@ -261,6 +261,7 @@ Author-Aadarsh Singh <great man>
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2227-sum-of-subarray-ranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -451,6 +452,7 @@ Author-Aadarsh Singh <great man>
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -459,6 +461,7 @@ Author-Aadarsh Singh <great man>
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
