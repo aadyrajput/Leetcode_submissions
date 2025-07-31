@@ -1,22 +1,18 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int maxVal = 0, ans = 0, currentStreak = 0;
-
-        for (int num : nums) {
-            if (maxVal < num) {
-                maxVal = num;
-                ans = currentStreak = 0;
+        int maxa=*max_element(nums.begin(),nums.end());
+        int ct=0; int ans=0;
+        for(int i=0;i<nums.size(); i++){
+            if(nums[i]==maxa){
+                ct++;
+                ans=max(ans,ct);
             }
-
-            if (maxVal == num) {
-                currentStreak++;
-            } else {
-                currentStreak = 0;
+            else{
+                ct=0;
             }
-
-            ans = max(ans, currentStreak);
         }
         return ans;
+
     }
 };
