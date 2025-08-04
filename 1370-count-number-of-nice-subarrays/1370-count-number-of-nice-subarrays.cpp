@@ -7,13 +7,13 @@ public:
             if(nums[i]%2!=0) v[i]=1;
         }
         for(int i=1; i<n; i++)v[i]+=v[i-1];
-        int sum=0; int ans=0;
+         int ans=0;
         map<int,int>m;
         for(int i=0;i<n; i++){
-            sum=v[i];
-            if(sum==k) ans++;
-            if(m.find(sum-k)!=m.end())ans+=m[sum-k];
-            m[sum]++;
+            int x=v[i];
+            if(x==k) ans++;
+            if(m.find(x-k)!=m.end())ans+=m[x-k];
+            m[x]++;
         }
         return ans;
     }
