@@ -1,20 +1,27 @@
 class Solution {
+private:
+int fun(vector<int>&nums,int goal){         // number of subaray with sum les than or equal to goal;
+ int ans=0;
+ int sum=0; int left=0;
+ for(int i=0;i<nums.size(); i++){
+    if(goal<0)return 0;
+    sum+=nums[i];
+    while(sum>goal){
+        sum-=nums[left];
+        left++;
+    }
+    ans+=(i-left+1);
+ }
+return ans;
+}
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        int n=nums.size();
-        vector<int> v(n,0);
-        for(int i=0;i<n; i++){
-            if(nums[i]%2!=0) v[i]=1;
-        }
-        for(int i=1; i<n; i++)v[i]+=v[i-1];
-         int ans=0;
-        map<int,int>m;
-        for(int i=0;i<n; i++){
-            int x=v[i];
-            if(x==k) ans++;
-            if(m.find(x-k)!=m.end())ans+=m[x-k];
-            m[x]++;
-        }
-        return ans;
+    int numberOfSubarrays(vector<int>& nums, int k){
+
+     for(int i=0;i<nums.size(); i++){
+        if(nums[i]%2==0) nums[i]=0;
+        else nums[i]=1;
+     }
+     return fun(nums,k)-fun(nums,k-1);
+
     }
 };
