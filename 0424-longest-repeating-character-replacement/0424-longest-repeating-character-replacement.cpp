@@ -11,14 +11,8 @@ public:
                 maxa=max(maxa,it.second);
             }
             sum-=maxa;
-            if(sum<=k){
-                ans=max(ans,i-left+1);
-            }
-            else{
-                m[s[left]]--;
-                left++;
+            if(sum>k){m[s[left]]--; left++;}
                 ans=max(ans,i-left+1);               
-            }
         }
         return ans;
     }
