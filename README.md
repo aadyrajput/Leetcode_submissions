@@ -100,6 +100,7 @@ Author-Aadarsh Singh <great man>
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Author-Aadarsh Singh <great man>
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -540,6 +542,7 @@ Author-Aadarsh Singh <great man>
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -590,6 +593,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -612,4 +616,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
