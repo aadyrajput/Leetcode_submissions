@@ -437,6 +437,7 @@ Author-Aadarsh Singh <great man>
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
@@ -547,6 +548,7 @@ Author-Aadarsh Singh <great man>
 | [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
