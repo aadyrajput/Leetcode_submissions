@@ -433,6 +433,7 @@ Author-Aadarsh Singh <great man>
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0372-super-pow](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0372-super-pow) |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -483,6 +484,7 @@ Author-Aadarsh Singh <great man>
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0372-super-pow) |
 ## Stack
 |  |
 | ------- |
