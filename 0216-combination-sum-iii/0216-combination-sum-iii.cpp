@@ -1,6 +1,6 @@
 class Solution {
 private:
-void fun(int k,int n,int start,vector<int>temp,vector<vector<int>> &ans){
+void fun(int k,int n,int start,vector<int>&temp,vector<vector<int>> &ans){
    if(n==0 && k==0){
         ans.push_back(temp);
         return;
