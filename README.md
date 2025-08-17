@@ -423,6 +423,7 @@ Author-Aadarsh Singh <great man>
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -460,6 +461,7 @@ Author-Aadarsh Singh <great man>
 | [0342-power-of-four](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0372-super-pow) |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -475,6 +477,7 @@ Author-Aadarsh Singh <great man>
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
@@ -679,4 +682,5 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
