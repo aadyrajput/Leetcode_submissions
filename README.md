@@ -302,6 +302,7 @@ Author-Aadarsh Singh <great man>
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -471,6 +472,7 @@ Author-Aadarsh Singh <great man>
 | [1448-maximum-69-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
