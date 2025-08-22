@@ -312,6 +312,7 @@ Author-Aadarsh Singh <great man>
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -622,6 +623,7 @@ Author-Aadarsh Singh <great man>
 | [1628-count-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Linked List
 |  |
