@@ -701,4 +701,8 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
