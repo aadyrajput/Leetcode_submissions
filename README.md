@@ -423,6 +423,7 @@ Author-Aadarsh Singh <great man>
 | [0022-generate-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
@@ -471,6 +472,7 @@ Author-Aadarsh Singh <great man>
 | [0002-add-two-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
@@ -723,4 +725,8 @@ Author-Aadarsh Singh <great man>
 | [1258-article-views-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1908-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
