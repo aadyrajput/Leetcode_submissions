@@ -158,6 +158,7 @@ Author-Aadarsh Singh <great man>
 | [1250-longest-common-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
@@ -453,6 +454,7 @@ Author-Aadarsh Singh <great man>
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
