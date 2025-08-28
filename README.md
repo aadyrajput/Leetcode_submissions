@@ -279,6 +279,7 @@ Author-Aadarsh Singh <great man>
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
