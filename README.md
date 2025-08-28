@@ -330,6 +330,7 @@ Author-Aadarsh Singh <great man>
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -391,6 +392,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -658,6 +660,7 @@ Author-Aadarsh Singh <great man>
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
