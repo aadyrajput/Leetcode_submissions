@@ -272,6 +272,7 @@ Author-Aadarsh Singh <great man>
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0485-max-consecutive-ones) |
@@ -465,6 +466,7 @@ Author-Aadarsh Singh <great man>
 | [0198-house-robber](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
