@@ -176,6 +176,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -238,6 +239,7 @@ Author-Aadarsh Singh <great man>
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
@@ -356,6 +358,7 @@ Author-Aadarsh Singh <great man>
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -674,6 +677,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0064-minimum-path-sum) |
