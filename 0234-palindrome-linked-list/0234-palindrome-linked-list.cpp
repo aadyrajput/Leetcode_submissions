@@ -12,15 +12,15 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         vector<int> v;
-        while(head!=NULL){
-            v.push_back(head->val);
-            head=head->next;
+        ListNode* temp=head;
+        while(temp){
+            v.push_back(temp->val);
+            temp=temp->next;
         }
-        bool flag=false; int n=v.size();
-        for(int i=0;i<v.size()/2; i++){
-            if(v[i]!=v[n-i-1]) return false;
+        int n=v.size();
+        for(int i=0;i<n/2; i++){
+            if(v[i]!=v[n-1-i])return false;
         }
-        return true;
-
+    return true;
     }
 };
