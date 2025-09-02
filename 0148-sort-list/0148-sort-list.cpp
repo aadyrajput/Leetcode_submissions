@@ -18,13 +18,12 @@ public:
             temp=temp->next;
         }
         sort(v.begin(),v.end());
-        temp=head; int i=0;
-        while(temp){
-            temp->val=v[i]; i++;
-            temp=temp->next;
+        int i=0; ListNode* temp2=head;
+        while(temp2){
+            temp2->val=v[i]; i++;
+            temp2=temp2->next;
         }
         return head;
-
 
     }
 };
