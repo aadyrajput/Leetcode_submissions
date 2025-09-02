@@ -11,18 +11,18 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int ct=0;
+        if(head==NULL)return NULL;
+        vector<int> v;
         ListNode* temp=head;
-        while(temp!=NULL){
-            ct++; temp=temp->next;
+        while(temp){v.push_back(temp->val); temp=temp->next;}
+        int n=v.size();
+        int tar=n/2;
+        int ct=0; temp=head;
+        while(temp){
+            if(ct==tar) break;
+            temp=temp->next; ct++;
         }
-        int ans=(ct+1)/2;
-        if(ct%2==0) ans++; ct=0;
-        while(head!=NULL){
-            ct++;
-            if(ct==ans)break;
-            head=head->next;
-        }
+        head=temp;
         return head;
     }
 };
