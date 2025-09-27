@@ -304,6 +304,7 @@ Author-Aadarsh Singh <great man>
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -577,6 +578,7 @@ Author-Aadarsh Singh <great man>
 | [0372-super-pow](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0372-super-pow) |
 | [0679-24-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -873,6 +875,7 @@ Author-Aadarsh Singh <great man>
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
 |  |
