@@ -107,6 +107,7 @@ Author-Aadarsh Singh <great man>
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3827-implement-router) |
@@ -385,6 +386,7 @@ Author-Aadarsh Singh <great man>
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -480,6 +482,7 @@ Author-Aadarsh Singh <great man>
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -654,6 +657,7 @@ Author-Aadarsh Singh <great man>
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
@@ -754,6 +758,7 @@ Author-Aadarsh Singh <great man>
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
 |  |
