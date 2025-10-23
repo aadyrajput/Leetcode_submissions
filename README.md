@@ -189,6 +189,7 @@ Author-Aadarsh Singh <great man>
 | [3462-vowels-game-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -639,6 +640,7 @@ Author-Aadarsh Singh <great man>
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
@@ -788,6 +790,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -857,6 +860,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -917,6 +921,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0062-unique-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
