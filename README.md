@@ -649,6 +649,7 @@ Author-Aadarsh Singh <great man>
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -809,6 +810,7 @@ Author-Aadarsh Singh <great man>
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
