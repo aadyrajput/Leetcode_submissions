@@ -385,6 +385,7 @@ Author-Aadarsh Singh <great man>
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -782,6 +783,7 @@ Author-Aadarsh Singh <great man>
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -838,6 +840,7 @@ Author-Aadarsh Singh <great man>
 | [1628-count-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
