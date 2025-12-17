@@ -400,6 +400,7 @@ Author-Aadarsh Singh <great man>
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -608,6 +609,7 @@ Author-Aadarsh Singh <great man>
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Breadth-First Search
