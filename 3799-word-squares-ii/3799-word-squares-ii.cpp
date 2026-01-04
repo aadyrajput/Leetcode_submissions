@@ -1,0 +1,28 @@
+class Solution {
+public:
+    vector<vector<string>> wordSquares(vector<string>& words) {
+     vector<vector<string>> ans;
+     int n=words.size();
+     for(int i=0; i<n; i++){
+        for(int j=0; j<n; j++){
+            if(i==j)continue;
+            for(int k=0; k<n; k++){
+                if(k==j || k==i)continue;
+                for(int l=0; l<n; l++){
+                    if(l==i || l==j || l==k)continue;
+                    string top=words[i]; string left=words[j];
+                    string right=words[k]; string bottom=words[l];
+                    if(top[0]==left[0] && top[3]==right[0] && bottom[0]==left[3] 
+                           && bottom[3]==right[3]){
+                        vector<string> v={top,left,right,bottom};
+                        ans.push_back(v);
+                           }
+                }
+            }
+        }
+     }
+
+     sort(ans.begin(),ans.end());
+     return ans;   
+    }
+};
