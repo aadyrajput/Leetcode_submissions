@@ -22,7 +22,7 @@ int fun(TreeNode* root,int &sum){
 }
 public:
     int maxPathSum(TreeNode* root) {
-        int sum=0;
+        int sum=INT_MIN;
         if(root==NULL)return 0;
         fun(root,sum);
         return sum;
