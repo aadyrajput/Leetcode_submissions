@@ -34,6 +34,7 @@ Author-Aadarsh Singh <great man>
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -61,6 +62,7 @@ Author-Aadarsh Singh <great man>
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -145,6 +147,7 @@ Author-Aadarsh Singh <great man>
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -460,6 +463,7 @@ Author-Aadarsh Singh <great man>
 | [0940-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1006-vowel-spellchecker) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -503,6 +507,7 @@ Author-Aadarsh Singh <great man>
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -646,6 +651,7 @@ Author-Aadarsh Singh <great man>
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
