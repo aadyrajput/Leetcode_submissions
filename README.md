@@ -36,6 +36,7 @@ Author-Aadarsh Singh <great man>
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -61,6 +62,7 @@ Author-Aadarsh Singh <great man>
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
@@ -145,6 +147,7 @@ Author-Aadarsh Singh <great man>
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## String
 |  |
 | ------- |
