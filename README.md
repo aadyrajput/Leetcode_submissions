@@ -34,6 +34,7 @@ Author-Aadarsh Singh <great man>
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -64,6 +65,7 @@ Author-Aadarsh Singh <great man>
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -151,6 +153,7 @@ Author-Aadarsh Singh <great man>
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -464,6 +467,7 @@ Author-Aadarsh Singh <great man>
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0940-fruit-into-baskets) |
@@ -658,6 +662,7 @@ Author-Aadarsh Singh <great man>
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
