@@ -8,19 +8,19 @@
  * };
  */
 class Solution {
+private:
+TreeNode* fun(TreeNode* node,TreeNode* p,TreeNode* q){
+ if(node==NULL)return NULL;
+ if(node==p || node==q)return node;
+ TreeNode* lh=fun(node->left,p,q);
+ TreeNode* rh=fun(node->right,p,q);
+ if(lh==NULL)return rh;
+ else if(rh==NULL) return lh;
+ else return node;
+}
 
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==NULL || p==root || q==root){return root;}
-        
-        TreeNode* l=lowestCommonAncestor(root->left,p,q);
-        TreeNode* r=lowestCommonAncestor(root->right,p,q);
-        if(l==NULL){
-            return r;
-        }
-        else if(r==NULL){
-            return l;
-        }
-        else return root;
+        return fun(root,p,q);
     }
-}; 
+};
