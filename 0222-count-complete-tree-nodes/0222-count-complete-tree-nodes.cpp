@@ -10,9 +10,15 @@
  * };
  */
 class Solution {
+private:
+int count(TreeNode* x){
+    if(x==NULL)return 0;
+    if(x->left==NULL && x->right==NULL)return 1;
+    return 1+count(x->left)+count(x->right);
+}
 public:
     int countNodes(TreeNode* root) {
-        if(root==NULL) return 0;
-        return 1+countNodes(root->left)+countNodes(root->right);
+        if(root==NULL)return 0;
+    return count(root);
     }
 };
