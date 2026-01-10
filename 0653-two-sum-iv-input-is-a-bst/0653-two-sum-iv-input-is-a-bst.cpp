@@ -20,21 +20,20 @@ void inorder(TreeNode* x,vector<int>&ans){
 public:
     bool findTarget(TreeNode* root, int k) {
         if(root==NULL)return false;
-        vector<int> ans;
-        inorder(root,ans);
+        vector<int> v;
+        inorder(root,v);
+        int n=v.size();
         map<int,int> m;
-        for(auto it:ans)m[it]++;
+        for(int i=0;i<n; i++){
+            m[v[i]]++;
+        }
         bool flag=false;
         for(auto it:m){
             int tar=k-it.first;
             if(m.count(tar)==0)continue;
-            if(tar==it.first){
-                if(m.count(tar)>=2) flag=true;
-            }
-            else{
-                if(m.count(tar)!=0) flag=true;
-            }
+            if(tar==it.first && it.second>=2)flag=true;
+            else if(tar!=it.first)if(m.count(tar))flag=true;
         }
-    return flag;
+        return flag;
     }
 };
