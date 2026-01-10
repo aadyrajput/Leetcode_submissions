@@ -11,53 +11,46 @@
  */
 class Solution {
 private:
-bool exist(TreeNode* root,int key){
-    bool flag=false;
-    while(root!=NULL){
-        if(key==root->val) {flag=true;break;}
-        else if(key<root->val) root=root->left;
-        else root=root->right;
+bool exist(TreeNode* x,int key){
+    while(x){
+        if(x->val==key)return true;
+        else if(x->val<key)x=x->right;
+        else x=x->left;
     }
-    return true;
+    return false;
 }
 TreeNode* fun(TreeNode* root){
-    if(root->left==NULL) return root->right;
-    if(root->right==NULL) return root->left;
+    if(!root->left)return root->right;
+    if(!root->right)return root->left;
     TreeNode* rightCh=root->right;
-    TreeNode* lastR=fun2(root->left);
-    lastR->right=rightCh;
+    TreeNode* leftrightCh=fun2(root->left);
+    leftrightCh->right=rightCh;
     return root->left;
-    }
-TreeNode* fun2(TreeNode* root){
-    if(root->right==NULL)return root; 
-    return fun2(root->right);
 }
-
+TreeNode* fun2(TreeNode* x){
+    if(x->right==NULL)return x;
+    return fun2(x->right);
+}
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root==NULL)return NULL;
-        if(!exist(root,key)) return root;
+        if(!exist(root,key) || root==NULL)return root;
 
-        if(root->val==key){
-            return fun(root);
-        }
-
+        if(root->val==key)return fun(root);
         TreeNode* temp=root;
-        while(root!=NULL){
-            if(key<root->val){
-                if(root->left && key==root->left->val){
-                    root->left=fun(root->left);
+        while(temp){
+            if(temp->val>key){
+                if(temp->left && temp->left->val==key){
+                    temp->left=fun(temp->left);
                 }
-                else root=root->left;
+                else temp=temp->left;
             }
             else{
-                 if(root->right && key==root->right->val){
-                    root->right=fun(root->right);
+                if(temp->right && temp->right->val==key){
+                    temp->right=fun(temp->right);
                 }
-                else root=root->right;
+                else temp=temp->right;
             }
-        }
-
-        return temp;
+        }        
+        return root;
     }
 };
