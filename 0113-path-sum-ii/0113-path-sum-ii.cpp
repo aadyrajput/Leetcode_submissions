@@ -10,28 +10,27 @@
  * };
  */
 class Solution {
-
 private:
-void fun(TreeNode* root,int sum,int targetSum,vector<int> temp, vector<vector<int>>&ans){
-    if(root==NULL) return ;
-    temp.push_back(root->val);
+void fun(TreeNode* root,int sum,int targetSum,vector<int> &v,vector<vector<int>>&ans){
+if(root==NULL)return;
     sum+=root->val;
-    if(root->left==NULL && root->right==NULL){
-        if(sum==targetSum){
-            ans.push_back(temp);
-        }
-        return;
-    } 
-    
-    if(root->left){ fun(root->left,sum,targetSum,temp,ans);}
-    if(root->right){fun(root->right,sum,targetSum,temp,ans);}
+    v.push_back(root->val);
+if(root->left==NULL && root->right==NULL){
+    if(sum==targetSum) ans.push_back(v);
+} 
+else{
+fun(root->left,sum,targetSum,v,ans);
+fun(root->right,sum,targetSum,v,ans);
+}
+v.pop_back();
 }
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         vector<vector<int>> ans;
-        if(root==NULL)return ans;
-        vector<int> temp;
-        fun(root,0,targetSum,temp,ans);
+        if(root==NULL) return ans;
+        int sum=0;
+        vector<int> v;
+        fun(root,sum,targetSum,v,ans);
         return ans;
     }
 };
