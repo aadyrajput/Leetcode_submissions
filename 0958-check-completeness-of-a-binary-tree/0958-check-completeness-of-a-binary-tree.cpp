@@ -10,22 +10,20 @@
  * };
  */
 class Solution {
+private:
+int tot(TreeNode* root){
+    if(root==NULL)return 0;
+    return 1+tot(root->left)+tot(root->right);
+}
+int fun(TreeNode* root,int i,int total){
+    if(root==NULL)return true;
+    if(i>total)return false;
+    return fun(root->left,2*i,total) && fun(root->right,2*i +1, total);
+}
 public:
     bool isCompleteTree(TreeNode* root) {
         if(root==NULL)return true;
-        queue<TreeNode*>q;
-        q.push(root);
-        bool flag=false;
-    while(!q.empty()){
-        TreeNode* x=q.front();
-        q.pop();
-        if(x==NULL) flag=true;
-        else{
-            if(flag) return false;
-        q.push(x->left);
-        q.push(x->right);
-        }
-    }
-    return true;
+        int total=tot(root);
+        return fun(root,1,total);
     }
 };
