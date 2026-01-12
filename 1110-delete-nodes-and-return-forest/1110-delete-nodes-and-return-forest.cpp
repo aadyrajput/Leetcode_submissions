@@ -20,13 +20,13 @@ public:
         queue<TreeNode*>q;
         q.push(root);
         vector<TreeNode*> ans;
-        // if(st.find(root->val)!=st.end()){
-
-        // }
-
         while(!q.empty()){
             TreeNode* x=q.front();
             q.pop();
+            if(st.find(x->val)!=st.end()){
+                if(x->left && st.find(x->left->val)==st.end())ans.push_back(x->left);
+                if(x->right && st.find(x->right->val)==st.end())ans.push_back(x->right);
+            }
             if(x->left){
                 q.push(x->left);
                 if(st.find(x->left->val)!=st.end())x->left=NULL;
@@ -35,12 +35,8 @@ public:
                 q.push(x->right);
             if(st.find(x->right->val)!=st.end())x->right=NULL;
             }
-             if(st.find(x->val)!=st.end()){
-                if(x->left && st.find(x->left->val)==st.end()){ans.push_back(x->left); x->left=NULL;}
-                if(x->right && st.find(x->right->val)==st.end()){ans.push_back(x->right);x->right=NULL;}
-            }
         }
-        if(st.find(root->val)==st.end()) ans.push_back(root);
+       if(st.find(root->val)==st.end()) ans.push_back(root);
     return ans;
     }
 };
