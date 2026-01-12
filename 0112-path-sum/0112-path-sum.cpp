@@ -12,19 +12,19 @@
 class Solution {
 private:
 bool fun(TreeNode* root,int sum,int targetSum){
-    if(root->left==NULL && root->right==NULL){
-        if(sum+root->val==targetSum) return true;
-        else return false;
-    } 
-    int l=false; int r=false;
-    if(root->left)l= fun(root->left,sum+root->val,targetSum);
-    if(root->right)r=fun(root->right,sum+root->val,targetSum);
-    return l || r;
+if(root->left==NULL && root->right==NULL){
+    if(sum+root->val==targetSum) return true;
+    return false;
+} 
+bool a=false,b=false;
+if(root->left)a=fun(root->left,sum+root->val,targetSum);
+if(root->right)b=fun(root->right,sum+root->val,targetSum);
+return a | b;
 }
-
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(root==NULL)return false;
-        return fun(root,0,targetSum);
+        if(root==NULL) return false;
+        int sum=0;
+        return fun(root,sum,targetSum);
     }
 };
