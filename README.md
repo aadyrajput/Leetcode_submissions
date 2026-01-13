@@ -30,6 +30,7 @@ Author-Aadarsh Singh <great man>
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -72,6 +73,7 @@ Author-Aadarsh Singh <great man>
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
@@ -114,6 +116,7 @@ Author-Aadarsh Singh <great man>
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -170,6 +173,7 @@ Author-Aadarsh Singh <great man>
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
@@ -211,6 +215,7 @@ Author-Aadarsh Singh <great man>
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -698,6 +703,7 @@ Author-Aadarsh Singh <great man>
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
@@ -858,6 +864,7 @@ Author-Aadarsh Singh <great man>
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
