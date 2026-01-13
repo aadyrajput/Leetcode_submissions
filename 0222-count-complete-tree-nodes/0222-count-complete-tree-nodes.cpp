@@ -13,7 +13,7 @@ class Solution {
 private:
 int count(TreeNode* x){
     if(x==NULL)return 0;
-    if(x->left==NULL && x->right==NULL)return 1;
+   // if(x->left==NULL && x->right==NULL)return 1;
     return 1+count(x->left)+count(x->right);
 }
 public:
