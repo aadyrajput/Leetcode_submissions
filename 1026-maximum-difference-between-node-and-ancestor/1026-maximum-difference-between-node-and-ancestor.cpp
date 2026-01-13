@@ -21,7 +21,7 @@ void fun(TreeNode* x,int mina,int maxa,int &ans){
         fun(x->left,mina,maxa,ans);
         fun(x->right,mina,maxa,ans);
     }
-    mina=INT_MAX; maxa=INT_MIN;
+   
 }
 public:
     int maxAncestorDiff(TreeNode* root) {
