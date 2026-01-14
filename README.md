@@ -77,6 +77,7 @@ Author-Aadarsh Singh <great man>
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -707,6 +708,7 @@ Author-Aadarsh Singh <great man>
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
@@ -1087,9 +1089,14 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 ## Bitmask
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
