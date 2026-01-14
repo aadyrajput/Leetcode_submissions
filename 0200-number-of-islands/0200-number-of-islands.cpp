@@ -2,24 +2,12 @@ class Solution {
 private:
 void fun(int i,int j,vector<vector<char>> &v,vector<vector<int>> &vis){
     int m=v.size(), n=v[0].size();
-    queue<pair<int,int>> q;
-    q.push({i,j});
+    if(i<0 || j<0 || i>=m || j>=n || v[i][j]=='0' || vis[i][j])return;
     vis[i][j]=1;
-    while(!q.empty()){
-      int x=q.front().first;
-      int y=q.front().second;
-        q.pop();
-     int delrow[4]={-1,0,1,0};
-     int delcol[4]={0,-1,0,1};
-    for(int k=0;k<4; k++){
-        int nrow=x+delrow[k];
-        int ncol=y+delcol[k];
-        if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && !vis[nrow][ncol] && v[nrow][ncol]=='1'){
-            vis[nrow][ncol]=1;
-            q.push({nrow,ncol});
-        }
-    }
-    }
+    fun(i-1,j,v,vis);
+    fun(i,j-1,v,vis);
+    fun(i+1,j,v,vis);
+    fun(i,j+1,v,vis);
 }
 
 public:
