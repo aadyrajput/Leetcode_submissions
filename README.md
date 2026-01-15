@@ -380,6 +380,7 @@ Author-Aadarsh Singh <great man>
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -660,6 +661,7 @@ Author-Aadarsh Singh <great man>
 | [0312-burst-balloons](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -711,6 +713,7 @@ Author-Aadarsh Singh <great man>
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -948,6 +951,7 @@ Author-Aadarsh Singh <great man>
 | [0200-number-of-islands](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0994-rotting-oranges) |
