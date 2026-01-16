@@ -71,6 +71,7 @@ Author-Aadarsh Singh <great man>
 | [0129-sum-root-to-leaf-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0200-number-of-islands) |
+| [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -716,6 +717,7 @@ Author-Aadarsh Singh <great man>
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0200-number-of-islands) |
+| [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1127,5 +1129,10 @@ Author-Aadarsh Singh <great man>
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
