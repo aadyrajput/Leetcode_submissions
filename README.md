@@ -85,6 +85,7 @@ Author-Aadarsh Singh <great man>
 | [0652-find-duplicate-subtrees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0814-binary-tree-pruning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -607,6 +608,7 @@ Author-Aadarsh Singh <great man>
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
@@ -680,6 +682,7 @@ Author-Aadarsh Singh <great man>
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -735,6 +738,7 @@ Author-Aadarsh Singh <great man>
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -1148,9 +1152,14 @@ Author-Aadarsh Singh <great man>
 | [0207-course-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
