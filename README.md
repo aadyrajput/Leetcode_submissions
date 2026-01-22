@@ -103,6 +103,7 @@ Author-Aadarsh Singh <great man>
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
 |  |
@@ -465,6 +466,7 @@ Author-Aadarsh Singh <great man>
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
@@ -714,6 +716,7 @@ Author-Aadarsh Singh <great man>
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -759,6 +762,7 @@ Author-Aadarsh Singh <great man>
 | [1091-shortest-path-in-binary-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -1002,6 +1006,7 @@ Author-Aadarsh Singh <great man>
 | [1975-maximum-matrix-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1035,6 +1040,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -1169,12 +1175,14 @@ Author-Aadarsh Singh <great man>
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
