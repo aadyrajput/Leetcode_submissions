@@ -485,6 +485,7 @@ Author-Aadarsh Singh <great man>
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3606-coupon-code-validator) |
@@ -553,6 +554,7 @@ Author-Aadarsh Singh <great man>
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -618,6 +620,7 @@ Author-Aadarsh Singh <great man>
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3678-design-task-manager) |
 ## Two Pointers
@@ -960,6 +963,7 @@ Author-Aadarsh Singh <great man>
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -1018,6 +1022,7 @@ Author-Aadarsh Singh <great man>
 | [0908-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1083,6 +1088,7 @@ Author-Aadarsh Singh <great man>
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1162,4 +1168,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
