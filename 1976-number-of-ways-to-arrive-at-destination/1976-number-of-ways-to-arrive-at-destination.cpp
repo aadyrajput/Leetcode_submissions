@@ -17,7 +17,7 @@ public:
             long long d=pq.top().first;
             long long node=pq.top().second;
             pq.pop();
-            if(d>dist[node])continue;
+          //  if(d>dist[node])continue;
             for(auto it:adj[node]){
                 long long nxt=it.first; long long time=it.second;
                 if( time+d<dist[nxt]){
