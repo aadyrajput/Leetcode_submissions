@@ -1162,6 +1162,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
@@ -1170,6 +1171,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0207-course-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
