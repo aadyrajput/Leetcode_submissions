@@ -85,6 +85,7 @@ Author-Aadarsh Singh <great man>
 | [0652-find-duplicate-subtrees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
@@ -136,6 +137,7 @@ Author-Aadarsh Singh <great man>
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
@@ -401,6 +403,7 @@ Author-Aadarsh Singh <great man>
 | [0679-24-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0827-making-a-large-island) |
@@ -618,6 +621,7 @@ Author-Aadarsh Singh <great man>
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -751,6 +755,7 @@ Author-Aadarsh Singh <great man>
 | [0623-add-one-row-to-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
@@ -998,6 +1003,7 @@ Author-Aadarsh Singh <great man>
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0827-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -1167,6 +1173,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
