@@ -227,6 +227,7 @@ Author-Aadarsh Singh <great man>
 | [0072-edit-distance](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -531,6 +532,7 @@ Author-Aadarsh Singh <great man>
 | [0037-sudoku-solver](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -755,6 +757,7 @@ Author-Aadarsh Singh <great man>
 | [0112-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0207-course-schedule) |
