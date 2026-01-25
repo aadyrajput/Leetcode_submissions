@@ -458,6 +458,7 @@ Author-Aadarsh Singh <great man>
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
@@ -604,6 +605,7 @@ Author-Aadarsh Singh <great man>
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -845,6 +847,7 @@ Author-Aadarsh Singh <great man>
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
