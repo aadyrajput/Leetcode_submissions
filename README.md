@@ -246,6 +246,7 @@ Author-Aadarsh Singh <great man>
 | [0812-rotate-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1006-vowel-spellchecker) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1170-shortest-common-supersequence) |
@@ -1209,6 +1210,7 @@ Author-Aadarsh Singh <great man>
 | [0886-possible-bipartition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
