@@ -437,6 +437,7 @@ Author-Aadarsh Singh <great man>
 | [1110-delete-nodes-and-return-forest](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -610,6 +611,7 @@ Author-Aadarsh Singh <great man>
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
