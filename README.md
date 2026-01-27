@@ -658,6 +658,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3678-design-task-manager) |
 ## Two Pointers
 |  |
@@ -1233,6 +1234,7 @@ Author-Aadarsh Singh <great man>
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1246,6 +1248,7 @@ Author-Aadarsh Singh <great man>
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
 |  |
 | ------- |
