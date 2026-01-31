@@ -144,6 +144,7 @@ Author-Aadarsh Singh <great man>
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
@@ -416,6 +417,7 @@ Author-Aadarsh Singh <great man>
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
