@@ -304,6 +304,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0011-container-with-most-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
@@ -390,6 +391,7 @@ Author-Aadarsh Singh <great man>
 | [0120-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
