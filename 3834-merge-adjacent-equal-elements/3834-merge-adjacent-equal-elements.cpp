@@ -7,20 +7,14 @@ public:
         st.push(nums[0]);
         for(int i=1;i<n;i++){
             long long x=nums[i];
-            if(!st.empty()){
-               if(st.top()==x){
-                st.pop(); st.push(x*2);
-               }
-               else st.push(x); 
-               long long a=st.top(); st.pop();
-               while(!st.empty() && st.top()==a){
-                  st.pop(); st.push(a*1ll*2);
-                  a=st.top(); st.pop();
-               }
-               st.push(a);
+            while(!st.empty() && st.top()==x){
+                x+=st.top();
+                st.pop();
             }
-            else st.push(nums[i]);
+             st.push(x);
         }
+
+
         while(!st.empty()){
             ans.push_back(st.top());
             st.pop();
