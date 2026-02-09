@@ -1284,6 +1284,7 @@ Author-Aadarsh Singh <great man>
 | [0841-keys-and-rooms](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
