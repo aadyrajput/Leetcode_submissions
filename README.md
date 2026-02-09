@@ -55,6 +55,7 @@ Author-Aadarsh Singh <great man>
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
@@ -117,6 +118,7 @@ Author-Aadarsh Singh <great man>
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -603,6 +605,7 @@ Author-Aadarsh Singh <great man>
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -839,6 +842,7 @@ Author-Aadarsh Singh <great man>
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
