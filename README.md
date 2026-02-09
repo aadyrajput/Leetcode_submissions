@@ -53,6 +53,7 @@ Author-Aadarsh Singh <great man>
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
@@ -113,6 +114,7 @@ Author-Aadarsh Singh <great man>
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -159,6 +161,7 @@ Author-Aadarsh Singh <great man>
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -224,6 +227,7 @@ Author-Aadarsh Singh <great man>
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -315,6 +319,7 @@ Author-Aadarsh Singh <great man>
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -946,6 +951,7 @@ Author-Aadarsh Singh <great man>
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
