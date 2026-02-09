@@ -41,6 +41,7 @@ Author-Aadarsh Singh <great man>
 | [0701-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0872-leaf-similar-trees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -98,6 +99,7 @@ Author-Aadarsh Singh <great man>
 | [0797-all-paths-from-source-to-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0827-making-a-large-island) |
+| [0834-sum-of-distances-in-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -758,6 +760,7 @@ Author-Aadarsh Singh <great man>
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
+| [0834-sum-of-distances-in-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
@@ -1273,6 +1276,7 @@ Author-Aadarsh Singh <great man>
 | [0785-is-graph-bipartite](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
