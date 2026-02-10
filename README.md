@@ -125,6 +125,7 @@ Author-Aadarsh Singh <great man>
 | [2101-detonate-the-maximum-bombs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
 |  |
@@ -860,6 +861,7 @@ Author-Aadarsh Singh <great man>
 | [2101-detonate-the-maximum-bombs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Math
 |  |
 | ------- |
@@ -1312,6 +1314,7 @@ Author-Aadarsh Singh <great man>
 | [2101-detonate-the-maximum-bombs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
@@ -1321,6 +1324,7 @@ Author-Aadarsh Singh <great man>
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
