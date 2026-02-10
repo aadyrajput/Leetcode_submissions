@@ -492,6 +492,7 @@ Author-Aadarsh Singh <great man>
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1646-kth-missing-positive-number) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -662,6 +663,7 @@ Author-Aadarsh Singh <great man>
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
@@ -729,6 +731,7 @@ Author-Aadarsh Singh <great man>
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1282,6 +1285,7 @@ Author-Aadarsh Singh <great man>
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -1302,6 +1306,7 @@ Author-Aadarsh Singh <great man>
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2101-detonate-the-maximum-bombs) |
