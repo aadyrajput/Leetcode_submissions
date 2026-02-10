@@ -119,6 +119,7 @@ Author-Aadarsh Singh <great man>
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -849,6 +850,7 @@ Author-Aadarsh Singh <great man>
 | [1091-shortest-path-in-binary-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -1296,6 +1298,7 @@ Author-Aadarsh Singh <great man>
 | [0841-keys-and-rooms](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
