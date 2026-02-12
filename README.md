@@ -294,6 +294,7 @@ Author-Aadarsh Singh <great man>
 | [3606-coupon-code-validator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -356,6 +357,7 @@ Author-Aadarsh Singh <great man>
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3713-longest-balanced-substring-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -368,6 +370,7 @@ Author-Aadarsh Singh <great man>
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Array
@@ -631,6 +634,7 @@ Author-Aadarsh Singh <great man>
 | [3606-coupon-code-validator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
