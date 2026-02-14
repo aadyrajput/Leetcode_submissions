@@ -593,6 +593,7 @@ Author-Aadarsh Singh <great man>
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0433-minimum-genetic-mutation) |
@@ -701,6 +702,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
@@ -774,6 +776,7 @@ Author-Aadarsh Singh <great man>
 | [0152-maximum-product-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
@@ -887,6 +890,7 @@ Author-Aadarsh Singh <great man>
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0326-power-of-three) |
