@@ -247,6 +247,7 @@ Author-Aadarsh Singh <great man>
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
@@ -884,6 +885,7 @@ Author-Aadarsh Singh <great man>
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -956,6 +958,7 @@ Author-Aadarsh Singh <great man>
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -1085,6 +1088,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1642-water-bottles) |
