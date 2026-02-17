@@ -314,6 +314,7 @@ Author-Aadarsh Singh <great man>
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0679-24-game) |
 | [0797-all-paths-from-source-to-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -966,6 +967,7 @@ Author-Aadarsh Singh <great man>
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
