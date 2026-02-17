@@ -53,6 +53,7 @@ Author-Aadarsh Singh <great man>
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -117,6 +118,7 @@ Author-Aadarsh Singh <great man>
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -235,6 +237,7 @@ Author-Aadarsh Singh <great man>
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
@@ -873,6 +876,7 @@ Author-Aadarsh Singh <great man>
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1313,6 +1317,7 @@ Author-Aadarsh Singh <great man>
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
@@ -1334,6 +1339,7 @@ Author-Aadarsh Singh <great man>
 | [0841-keys-and-rooms](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
