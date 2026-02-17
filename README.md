@@ -241,6 +241,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
@@ -726,6 +727,7 @@ Author-Aadarsh Singh <great man>
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0018-4sum) |
@@ -757,6 +759,7 @@ Author-Aadarsh Singh <great man>
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
