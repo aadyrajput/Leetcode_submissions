@@ -1,23 +1,6 @@
 class Solution {
 public:
-    int almostPalindromic(string s) {
-        int ans = 0;
-        int n = s.size();
-
-     
-        for(int i = 0; i < n; i++){
-            for(int j = i+ans; j < n; j++){  
-                if(check(s, i, j)){
-                    ans = max(ans, j - i + 1);
-                }
-            }
-        }
-
-        return (ans == 0 ? -1 : ans);
-    }
-
-    // Check if substring s[l..r] is palindrome
-    bool isPalindrome(const string &s, int l, int r) {
+     bool isPalindrome(const string &s, int l, int r) {
         while (l < r) {
             if (s[l] != s[r]) return false;
             l++;
@@ -25,17 +8,26 @@ public:
         }
         return true;
     }
-
-    bool check(const string &s, int l, int r) {
-        while (l < r) {
-            if (s[l] == s[r]) {
-                l++;
-                r--;
-            } else {
-                return isPalindrome(s, l + 1, r) ||
-                       isPalindrome(s, l, r - 1);
-            }
+    bool check(string &s,int i,int j){
+    while(i<j){
+        if(s[i]!=s[j]){
+            return isPalindrome(s,i+1,j) || isPalindrome(s,i,j-1);
         }
-        return true;
+        else{i++;j--;}
+    }
+    return true;
+  }
+    int almostPalindromic(string s) {
+        int n=s.size();
+        int stind=0; int mxlen=1;
+        for(int i=0;i<n;i++){
+            for(int j=i+mxlen;j<n;j++){
+                if(check(s,i,j)){
+                        mxlen=max(mxlen,j-i+1);
+                    }
+                }
+            }
+        return mxlen;
+
     }
 };
