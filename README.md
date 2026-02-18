@@ -975,6 +975,7 @@ Author-Aadarsh Singh <great man>
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
