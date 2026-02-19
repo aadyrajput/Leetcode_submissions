@@ -267,6 +267,7 @@ Author-Aadarsh Singh <great man>
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0812-rotate-string) |
@@ -749,6 +750,7 @@ Author-Aadarsh Singh <great man>
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
