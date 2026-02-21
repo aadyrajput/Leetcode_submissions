@@ -85,6 +85,7 @@ Author-Aadarsh Singh <great man>
 | [0226-invert-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0437-path-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -263,6 +264,7 @@ Author-Aadarsh Singh <great man>
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0402-remove-k-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0433-minimum-genetic-mutation) |
@@ -444,6 +446,7 @@ Author-Aadarsh Singh <great man>
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0312-burst-balloons) |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
@@ -674,6 +677,7 @@ Author-Aadarsh Singh <great man>
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -718,6 +722,7 @@ Author-Aadarsh Singh <great man>
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
@@ -1346,6 +1351,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0207-course-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
@@ -1406,4 +1412,8 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
