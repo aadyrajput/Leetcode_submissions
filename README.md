@@ -995,6 +995,7 @@ Author-Aadarsh Singh <great man>
 | [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
