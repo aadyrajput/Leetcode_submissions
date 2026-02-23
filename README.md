@@ -905,6 +905,7 @@ Author-Aadarsh Singh <great man>
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Math
 |  |
 | ------- |
@@ -1102,6 +1103,7 @@ Author-Aadarsh Singh <great man>
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3714-longest-balanced-substring-ii) |
@@ -1384,6 +1386,7 @@ Author-Aadarsh Singh <great man>
 | [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
