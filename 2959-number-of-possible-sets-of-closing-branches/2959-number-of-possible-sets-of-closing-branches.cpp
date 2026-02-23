@@ -14,13 +14,13 @@ public:
 
           for(auto it:roads){
             int a=it[0], b=it[1], c=it[2];
-            if(st.find(a)!=st.end())continue;
-            if(st.find(b)!=st.end())continue;
+            if(st.find(a)==st.end())continue;
+            if(st.find(b)==st.end())continue;
             dist[a][b]=min(dist[a][b],c);
             dist[b][a]=min(dist[b][a],c);
           }
           for(int i=0;i<n;i++){
-            if(st.find(i)==st.end())dist[i][i]=0;
+            if(st.find(i)!=st.end())dist[i][i]=0;
           }
 
           for(int k=0; k<n; k++){
@@ -36,7 +36,7 @@ public:
           bool flag=false;
           for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(st.find(i)!=st.end() || st.find(j)!=st.end())continue;
+                if(st.find(i)==st.end() || st.find(j)==st.end())continue;
                 if(dist[i][j]>maxDistance)flag=true;
             }
           }
