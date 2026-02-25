@@ -373,6 +373,7 @@ Author-Aadarsh Singh <great man>
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -504,6 +505,7 @@ Author-Aadarsh Singh <great man>
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -702,6 +704,7 @@ Author-Aadarsh Singh <great man>
 | [1200-minimum-absolute-difference](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1015,6 +1018,7 @@ Author-Aadarsh Singh <great man>
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
