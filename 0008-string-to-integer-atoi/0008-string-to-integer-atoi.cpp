@@ -1,32 +1,30 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int sign = 1;
-        bool started = false;
-        long long ans = 0;
-        int i = 0;
+        int n=s.size();
+        int sign=1;
+        long long ans=0;
+        int i=0;
 
-        while (i < s.size() && s[i] == ' ') i++; // Skip leading spaces
+        while(i<n && s[i]==' ')i++;
 
-        // Check for optional sign
-        if (i < s.size() && (s[i] == '+' || s[i] == '-')) {
-            sign = (s[i] == '-') ? -1 : 1;
+        if(i<n && (s[i]=='+' || s[i]=='-')){
+            if(s[i]=='-')sign=-1;
             i++;
         }
 
-        // Parse numeric characters
-        while (i < s.size() && isdigit(s[i])) {
-            int digit = s[i] - '0';
+        while(i<n && (s[i]>='0' && s[i]<='9')){
+            int z=s[i]-'0';
 
-            // Overflow checks
-            if (ans > (INT_MAX - digit) / 10) {
-                return sign == 1 ? INT_MAX : INT_MIN;
+            if(ans>(INT_MAX-z)/10){
+                if(sign==1)return INT_MAX;
+                return INT_MIN;
             }
-
-            ans = ans * 10 + digit;
+            ans=ans*10+z;
             i++;
         }
+        return ans*sign;
 
-        return (int)(sign * ans);
+    
     }
 };
