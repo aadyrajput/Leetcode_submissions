@@ -291,6 +291,7 @@ Author-Aadarsh Singh <great man>
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1024,6 +1025,7 @@ Author-Aadarsh Singh <great man>
 | [0868-binary-gap](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1156,6 +1158,7 @@ Author-Aadarsh Singh <great man>
 | [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
