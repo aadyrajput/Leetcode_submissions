@@ -1,23 +1,28 @@
 class Solution {
-private:
-void fun(int k,int n,int start,vector<int>&temp,vector<vector<int>> &ans){
-   if(n==0 && k==0){
-        ans.push_back(temp);
-        return;
-   }
-   for(int i=start; i<=9; i++){
-        if(i>n  || k<0)break;
-        temp.push_back(i);
-        fun(k-1,n-i,i+1,temp,ans);
-         temp.pop_back();
-   }
-
-}
 public:
+    void fun(int i,int tar,vector<int>&v,vector<int>&temp,vector<vector<int>>&ans, int k){
+        if(tar<0)return;
+        if(tar==0){
+            if(temp.size()==k)ans.push_back(temp);
+            return;
+        }
+        if(i==v.size())return;
+        if(v[i]<=tar){
+            temp.push_back(v[i]);
+            fun(i+1,tar-v[i],v,temp,ans,k);
+            temp.pop_back();
+        }
+        fun(i+1,tar,v,temp,ans,k);
+    }
     vector<vector<int>> combinationSum3(int k, int n) {
+        vector<int> v;
+        for(int i=1;i<=9;i++){
+            v.push_back(i);
+        }
+
         vector<int> temp;
         vector<vector<int>> ans;
-        fun(k,n,1,temp,ans);
+        fun(0,n,v,temp,ans,k);
         return ans;
     }
 };
