@@ -326,6 +326,7 @@ Author-Aadarsh Singh <great man>
 | [0037-sudoku-solver](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -417,6 +418,7 @@ Author-Aadarsh Singh <great man>
 | [0039-combination-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0055-jump-game) |
@@ -688,6 +690,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0015-3sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
