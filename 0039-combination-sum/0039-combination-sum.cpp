@@ -1,9 +1,10 @@
 class Solution {
 public:
     void fun(int i,int sum,vector<int>&can,int tar,vector<int>&v,set<vector<int>>&st){
-        if(sum>tar)return;
         if(i==can.size()){
-            if(sum==tar)st.insert(v);
+            if(sum==tar){
+                st.insert(v);
+            }
             return;
         }
         if(sum+can[i]<=tar){
