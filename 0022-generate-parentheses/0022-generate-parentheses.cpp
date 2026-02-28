@@ -1,22 +1,23 @@
 class Solution {
-private:
-void fun(int i,int n,string temp,int open,int close,vector<string>&ans){
-    if(i==n*2){
-        ans.push_back(temp);
-        return;
-    }
-    if(open<n){
-        fun(i+1,n,temp+"(",open+1,close,ans);
-    }
-    if(close<open){
-        fun(i+1,n,temp+")",open,close+1,ans);
-    }
-}
-
 public:
+    void fun(int op,int cl,string s,vector<string>&ans,int n){
+        if(cl>op)return;
+        if(op==n && cl==n){
+            ans.push_back(s);
+            return;
+        }
+        if(op+1<=n){
+            fun(op+1,cl,s+"(",ans,n);
+        }
+        if(cl+1<=n){
+            fun(op,cl+1,s+")",ans,n);
+        }
+
+    }
     vector<string> generateParenthesis(int n) {
-        vector<string> ans; string temp="";
-        fun(0,n,temp,0,0,ans);
-        return ans;       
+        string s="";
+        vector<string> ans;
+        fun(0,0,s,ans,n);
+        return ans;
     }
 };
