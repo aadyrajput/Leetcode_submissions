@@ -1,36 +1,31 @@
 class Solution {
-private:
-bool isPalindrome(string ss){
-    int n1=ss.size();
-    if(n1==1)return true;
-    for(int i=0;i<n1/2; i++){
-        if(ss[i]!=ss[n1-1-i]) return false;
+public:
+    bool isPal(string &x){
+        int z=x.size();
+        for(int i=0;i<z/2; i++){
+            if(x[i]!=x[z-1-i])return false;
+        }
+        return true;
     }
-    return true;
-}
-
-void fun(int i,string s,vector<string>temp,vector<vector<string>>&v){
-    if(i==s.size()){
-        v.push_back(temp);
-        return;
-    }
-    int n=s.size();
-    string x;
-    for(int j=i; j<n; j++){
-        x.push_back(s[j]);
-        if(isPalindrome(x)){
-            temp.push_back(x);
-            fun(j+1,s,temp,v);
-            temp.pop_back();
+    void fun(int i,string &s,vector<string>&v,vector<vector<string>> &ans){
+        if(i==s.size()){
+            ans.push_back(v);
+            return;
+        }
+        string x;
+        for(int j=i; j<s.size(); j++){
+            x+=s[j];
+            if(isPal(x)){
+                v.push_back(x);
+                fun(j+1,s,v,ans);
+                v.pop_back();
+            }
         }
     }
-}
-
-public:
     vector<vector<string>> partition(string s) {
-        vector<string> temp;
+        vector<string> v;
         vector<vector<string>> ans;
-        fun(0,s,temp,ans);
+        fun(0,s,v,ans);
         return ans;
     }
 };
