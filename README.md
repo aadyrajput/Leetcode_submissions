@@ -301,6 +301,7 @@ Author-Aadarsh Singh <great man>
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -879,6 +880,7 @@ Author-Aadarsh Singh <great man>
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
@@ -1029,6 +1031,7 @@ Author-Aadarsh Singh <great man>
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
