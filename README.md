@@ -551,6 +551,7 @@ Author-Aadarsh Singh <great man>
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1980-find-unique-binary-string) |
@@ -1245,6 +1246,7 @@ Author-Aadarsh Singh <great man>
 | [1628-count-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
