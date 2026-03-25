@@ -635,6 +635,7 @@ Author-Aadarsh Singh <great man>
 | [3791-fruits-into-baskets-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3827-implement-router) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Hash Table
 |  |
 | ------- |
@@ -713,6 +714,7 @@ Author-Aadarsh Singh <great man>
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Sorting
 |  |
 | ------- |
@@ -1449,6 +1451,7 @@ Author-Aadarsh Singh <great man>
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Graph Theory
 |  |
 | ------- |
