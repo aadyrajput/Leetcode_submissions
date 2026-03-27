@@ -492,6 +492,7 @@ Author-Aadarsh Singh <great man>
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -886,6 +887,7 @@ Author-Aadarsh Singh <great man>
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
