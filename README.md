@@ -317,6 +317,7 @@ Author-Aadarsh Singh <great man>
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3396-valid-word) |
@@ -382,6 +383,7 @@ Author-Aadarsh Singh <great man>
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -608,6 +610,7 @@ Author-Aadarsh Singh <great man>
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
@@ -940,6 +943,7 @@ Author-Aadarsh Singh <great man>
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1306,6 +1310,7 @@ Author-Aadarsh Singh <great man>
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2906-construct-product-matrix) |
@@ -1492,6 +1497,7 @@ Author-Aadarsh Singh <great man>
 | [2092-find-all-people-with-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2092-find-all-people-with-secret) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
+| [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Graph Theory
