@@ -594,6 +594,7 @@ Author-Aadarsh Singh <great man>
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1052,6 +1053,7 @@ Author-Aadarsh Singh <great man>
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1110,6 +1112,7 @@ Author-Aadarsh Singh <great man>
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
