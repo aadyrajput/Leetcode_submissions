@@ -346,6 +346,7 @@ Author-Aadarsh Singh <great man>
 | [0131-palindrome-partitioning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0679-24-game) |
 | [0797-all-paths-from-source-to-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -489,6 +490,7 @@ Author-Aadarsh Singh <great man>
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
@@ -886,6 +888,7 @@ Author-Aadarsh Singh <great man>
 | [0377-combination-sum-iv](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
