@@ -654,6 +654,7 @@ Author-Aadarsh Singh <great man>
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -740,6 +741,7 @@ Author-Aadarsh Singh <great man>
 | [3713-longest-balanced-substring-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3827-implement-router) |
