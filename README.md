@@ -506,6 +506,7 @@ Author-Aadarsh Singh <great man>
 | [0518-coin-change-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0546-remove-boxes) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -917,6 +918,7 @@ Author-Aadarsh Singh <great man>
 | [0516-longest-palindromic-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0546-remove-boxes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1371,6 +1373,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0139-word-break) |
+| [0546-remove-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0546-remove-boxes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
