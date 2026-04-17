@@ -278,6 +278,7 @@ Author-Aadarsh Singh <great man>
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
@@ -864,6 +865,7 @@ Author-Aadarsh Singh <great man>
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
@@ -923,6 +925,7 @@ Author-Aadarsh Singh <great man>
 | [0518-coin-change-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0546-remove-boxes) |
+| [0647-palindromic-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
