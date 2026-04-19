@@ -549,6 +549,7 @@ Author-Aadarsh Singh <great man>
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -944,6 +945,7 @@ Author-Aadarsh Singh <great man>
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1250-longest-common-subsequence) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
