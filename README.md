@@ -387,6 +387,7 @@ Author-Aadarsh Singh <great man>
 | [1834-minimum-number-of-people-to-teach](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1975-maximum-matrix-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -594,6 +595,7 @@ Author-Aadarsh Singh <great man>
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
