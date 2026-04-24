@@ -548,6 +548,7 @@ Author-Aadarsh Singh <great man>
 | [1006-vowel-spellchecker](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
+| [1035-uncrossed-lines](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
@@ -958,6 +959,7 @@ Author-Aadarsh Singh <great man>
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
