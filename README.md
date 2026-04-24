@@ -177,6 +177,7 @@ Author-Aadarsh Singh <great man>
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -555,6 +556,7 @@ Author-Aadarsh Singh <great man>
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -795,6 +797,7 @@ Author-Aadarsh Singh <great man>
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -957,6 +960,7 @@ Author-Aadarsh Singh <great man>
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1170-shortest-common-supersequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
