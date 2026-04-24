@@ -289,6 +289,7 @@ Author-Aadarsh Singh <great man>
 | [0761-special-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0812-rotate-string) |
 | [0839-similar-string-groups](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0839-similar-string-groups) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
@@ -951,6 +952,7 @@ Author-Aadarsh Singh <great man>
 | [0826-soup-servings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0826-soup-servings) |
 | [0834-sum-of-distances-in-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0834-sum-of-distances-in-tree) |
 | [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
