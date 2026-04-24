@@ -543,6 +543,7 @@ Author-Aadarsh Singh <great man>
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [0966-binary-subarrays-with-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
@@ -956,6 +957,7 @@ Author-Aadarsh Singh <great man>
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
