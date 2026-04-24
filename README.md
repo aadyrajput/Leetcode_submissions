@@ -626,6 +626,7 @@ Author-Aadarsh Singh <great man>
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
@@ -745,6 +746,7 @@ Author-Aadarsh Singh <great man>
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1257,6 +1259,7 @@ Author-Aadarsh Singh <great man>
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2906-construct-product-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2906-construct-product-matrix) |
