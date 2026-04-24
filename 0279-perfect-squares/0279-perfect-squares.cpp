@@ -1,25 +1,21 @@
 class Solution {
 public:
+    int fun(int i,int n,vector<int>&v,vector<vector<int>>&dp){
+        if(i==0){
+            return n;
+        }
+        if(dp[i][n]!=-1)return dp[i][n];
+        int ans=fun(i-1,n,v,dp);
+        if(n>=v[i]) ans=min(ans, 1+fun(i,n-v[i],v,dp));
+        return dp[i][n]=ans;
+    }
     int numSquares(int n) {
-          int a=sqrt(n);
-        if(a*a==n)return 1;
-        vector<int> v;
-        for(int i=1; i*i<=n; i++)v.push_back(i*i);
-        int m=v.size();
-        vector<vector<int>> dp(m,vector<int>(n+1,1e9));
-        for(int i=0;i<m;i++)dp[i][0]=0;
-        for(int i=1;i<=n; i++){
-            dp[0][i]=i;
+        vector<int> v; int z=0;
+        for(int i=1; i*i<=n; i++){
+            z++;
+            v.push_back(i*i);
         }
-        
-        for(int i=1;i<m; i++){
-            for(int j=1; j<=n; j++){
-                int notpick=dp[i-1][j];
-                int pick=INT_MAX;
-                if(v[i]<=j) pick=1+dp[i][j-v[i]];
-                dp[i][j]=min(pick,notpick);
-            }
-        }
-        return dp[m-1][n];
+        vector<vector<int>> dp(z+1,vector<int>(n+1,-1));
+        return fun(z-1,n,v,dp);
     }
 };
