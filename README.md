@@ -119,6 +119,7 @@ Author-Aadarsh Singh <great man>
 | [1110-delete-nodes-and-return-forest](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
@@ -564,6 +565,7 @@ Author-Aadarsh Singh <great man>
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1058,6 +1060,7 @@ Author-Aadarsh Singh <great man>
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1306-jump-game-iii) |
 | [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
