@@ -283,6 +283,7 @@ Author-Aadarsh Singh <great man>
 | [0647-palindromic-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
@@ -1438,6 +1439,7 @@ Author-Aadarsh Singh <great man>
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
