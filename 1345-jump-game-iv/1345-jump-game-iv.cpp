@@ -28,7 +28,7 @@ public:
                     vis[it]=1;
                     q.push({dis+1,it});
                 }
-                m[arr[node]].clear();
+                m[arr[node]].clear();  //optimisation remove vector already used
             }
         }
     return -1;
