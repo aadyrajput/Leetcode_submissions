@@ -648,6 +648,7 @@ Author-Aadarsh Singh <great man>
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2906-construct-product-matrix) |
@@ -768,6 +769,7 @@ Author-Aadarsh Singh <great man>
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1198,6 +1200,7 @@ Author-Aadarsh Singh <great man>
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
