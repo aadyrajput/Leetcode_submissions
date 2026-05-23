@@ -602,6 +602,7 @@ Author-Aadarsh Singh <great man>
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
