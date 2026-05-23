@@ -704,6 +704,7 @@ Author-Aadarsh Singh <great man>
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3827-implement-router) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3925-concatenate-array-with-reverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -1360,6 +1361,7 @@ Author-Aadarsh Singh <great man>
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
