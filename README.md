@@ -667,6 +667,7 @@ Author-Aadarsh Singh <great man>
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3379-transformed-array) |
@@ -1146,6 +1147,7 @@ Author-Aadarsh Singh <great man>
 | [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
