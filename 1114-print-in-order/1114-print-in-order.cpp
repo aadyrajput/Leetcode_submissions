@@ -8,7 +8,6 @@ public:
     }
 
     void first(function<void()> printFirst) {
-        unique_lock<mutex> lck(mtx);
         // printFirst() outputs "first". Do not change or remove this line.
         printFirst();
         ct=2;
