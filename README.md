@@ -1713,4 +1713,5 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
