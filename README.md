@@ -1046,6 +1046,7 @@ Author-Aadarsh Singh <great man>
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1170,6 +1171,7 @@ Author-Aadarsh Singh <great man>
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3783-mirror-distance-of-an-integer) |
