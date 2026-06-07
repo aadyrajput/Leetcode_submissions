@@ -58,6 +58,7 @@ Author-Aadarsh Singh <great man>
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
@@ -251,6 +252,7 @@ Author-Aadarsh Singh <great man>
 | [1361-validate-binary-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1361-validate-binary-tree-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -632,6 +634,7 @@ Author-Aadarsh Singh <great man>
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2227-sum-of-subarray-ranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2227-sum-of-subarray-ranges) |
@@ -781,6 +784,7 @@ Author-Aadarsh Singh <great man>
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
