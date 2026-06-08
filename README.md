@@ -632,6 +632,7 @@ Author-Aadarsh Singh <great man>
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -936,6 +937,7 @@ Author-Aadarsh Singh <great man>
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1377,6 +1379,7 @@ Author-Aadarsh Singh <great man>
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2288-count-operations-to-obtain-zero) |
