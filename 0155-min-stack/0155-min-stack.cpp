@@ -7,14 +7,8 @@ public:
     }
     
     void push(int value) {
-        if(st.empty()){
-            st.push({value,value});
-        }
-        else{
-            int mina=st.top().second;
-            mina=min(mina,value);
-            st.push({value,mina});
-        }
+        if(st.empty())st.push({value,value});
+        else st.push({value,min(value,st.top().second)});
     }
     
     void pop() {
