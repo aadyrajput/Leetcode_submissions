@@ -743,6 +743,7 @@ Author-Aadarsh Singh <great man>
 | [0139-word-break](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
@@ -1323,6 +1324,7 @@ Author-Aadarsh Singh <great man>
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
@@ -1476,6 +1478,7 @@ Author-Aadarsh Singh <great man>
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
@@ -1715,6 +1718,7 @@ Author-Aadarsh Singh <great man>
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Minimum Spanning Tree
 |  |
