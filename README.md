@@ -1289,6 +1289,7 @@ Author-Aadarsh Singh <great man>
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
@@ -1310,6 +1311,7 @@ Author-Aadarsh Singh <great man>
 | [0402-remove-k-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0943-sum-of-subarray-minimums) |
@@ -1326,6 +1328,7 @@ Author-Aadarsh Singh <great man>
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
@@ -1551,6 +1554,7 @@ Author-Aadarsh Singh <great man>
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
 ## Ordered Set
 |  |
