@@ -62,6 +62,7 @@ Author-Aadarsh Singh <great man>
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Author-Aadarsh Singh <great man>
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1174,6 +1176,7 @@ Author-Aadarsh Singh <great man>
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3462-vowels-game-in-a-string) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
