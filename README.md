@@ -1582,6 +1582,7 @@ Author-Aadarsh Singh <great man>
 | [0595-big-countries](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1258-article-views-i) |
+| [1683-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1908-recyclable-and-low-fat-products) |
