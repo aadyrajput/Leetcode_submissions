@@ -1597,6 +1597,7 @@ Author-Aadarsh Singh <great man>
 | [1757-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Combinatorics
 |  |
 | ------- |
