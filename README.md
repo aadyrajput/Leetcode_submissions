@@ -1595,6 +1595,7 @@ Author-Aadarsh Singh <great man>
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1908-recyclable-and-low-fat-products) |
