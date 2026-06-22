@@ -6,5 +6,6 @@ ON u.user_id=mr.user_id GROUP BY u.user_id ORDER BY COUNT(u.user_id) DESC, u.nam
 UNION ALL
 (
 SELECT m.title AS results FROM Movies as m INNER JOIN MovieRating as mr
-ON m.movie_id=mr.movie_id AND MONTH(mr.created_at)=02 AND YEAR(mr.created_at)=2020 GROUP BY m.movie_id,m.title ORDER BY AVG(mr.rating) DESC ,m.title ASC LIMIT 1
+ON m.movie_id=mr.movie_id AND MONTH(mr.created_at)=02 AND YEAR(mr.created_at)=2020 
+GROUP BY m.movie_id ORDER BY AVG(mr.rating) DESC ,m.title ASC LIMIT 1
 );
