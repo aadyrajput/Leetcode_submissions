@@ -1605,6 +1605,7 @@ Author-Aadarsh Singh <great man>
 | [1258-article-views-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1527-patients-with-a-condition) |
