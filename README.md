@@ -1601,6 +1601,7 @@ Author-Aadarsh Singh <great man>
 | [1258-article-views-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1667-fix-names-in-a-table) |
