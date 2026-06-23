@@ -1616,6 +1616,7 @@ Author-Aadarsh Singh <great man>
 | [1667-fix-names-in-a-table](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1908-recyclable-and-low-fat-products) |
