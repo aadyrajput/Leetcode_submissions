@@ -4,15 +4,15 @@ public:
         int ans=0;
         int ptr=0;
         map<char,int> m;
+        int maxa=0;
+
         for(int i=0;i<s.size();i++){
-            int maxa=-1;
             m[s[i]]++;
-            for(auto it:m){
-                maxa=max(maxa,it.second);
-            }
-            int tot_char=i-ptr+1;
-            if(tot_char-maxa>k){
-                m[s[ptr]]--; ptr++;
+            maxa=max(maxa,m[s[i]]);
+            while((i-ptr+1)-maxa>k){
+                m[s[ptr]]--;
+                ptr++;
+                for(auto it:m) maxa=max(maxa,it.second);
             }
             ans=max(ans,i-ptr+1);
         }
