@@ -9,8 +9,8 @@ public:
         while(ct>=k){
           if(nums[ptr]==maxa)ct--; 
           ptr++; 
+          ans+=(n-i);
         }
-        ans+=ptr;
     }
 
     return ans;
