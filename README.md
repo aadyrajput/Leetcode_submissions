@@ -592,6 +592,7 @@ Author-Aadarsh Singh <great man>
 | [1046-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -1255,6 +1256,7 @@ Author-Aadarsh Singh <great man>
 | [0992-subarrays-with-k-different-integers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
