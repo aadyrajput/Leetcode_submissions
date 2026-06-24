@@ -695,6 +695,7 @@ Author-Aadarsh Singh <great man>
 | [2906-construct-product-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -829,6 +830,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1259,6 +1261,7 @@ Author-Aadarsh Singh <great man>
 | [2090-k-radius-subarray-averages](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3634-minimum-removals-to-balance-array) |
