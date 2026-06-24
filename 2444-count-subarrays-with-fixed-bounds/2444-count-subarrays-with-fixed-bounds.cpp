@@ -6,12 +6,12 @@ public:
     long long ans=0;
     for(int i=0;i<n;i++){
         if(nums[i]>maxK || nums[i]<minK){
-            ptr=i;
+            ptr=i; mina=-1, maxa=-1;
             continue;
         }
         if(nums[i]==minK)mina=i;
         if(nums[i]==maxK)maxa=i;
-        ans+=max(0, min(maxa,mina)-ptr); 
+        if(mina!=-1 && maxa!=-1) ans+=(min(maxa,mina)-ptr); 
     }
 
     return ans;
