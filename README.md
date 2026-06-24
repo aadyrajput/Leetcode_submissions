@@ -616,6 +616,7 @@ Author-Aadarsh Singh <great man>
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1058,6 +1059,7 @@ Author-Aadarsh Singh <great man>
 | [1402-reducing-dishes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1402-reducing-dishes) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1247,6 +1249,7 @@ Author-Aadarsh Singh <great man>
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
