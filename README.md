@@ -659,6 +659,7 @@ Author-Aadarsh Singh <great man>
 | [2104-sum-of-subarray-ranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2126-destroying-asteroids) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
@@ -1265,6 +1266,7 @@ Author-Aadarsh Singh <great man>
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2090-k-radius-subarray-averages) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
