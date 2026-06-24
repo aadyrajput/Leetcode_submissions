@@ -158,6 +158,7 @@ Author-Aadarsh Singh <great man>
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -520,6 +521,7 @@ Author-Aadarsh Singh <great man>
 | [0198-house-robber](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0216-combination-sum-iii) |
@@ -1222,6 +1224,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -1381,6 +1384,7 @@ Author-Aadarsh Singh <great man>
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0966-binary-subarrays-with-sum) |
