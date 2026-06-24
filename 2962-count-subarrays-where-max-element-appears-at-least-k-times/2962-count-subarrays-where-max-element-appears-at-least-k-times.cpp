@@ -6,7 +6,7 @@ public:
     long long ct=0, ptr=0, ans=0;
     for(int i=0;i<n; i++){
         if(nums[i]==maxa)ct++;
-        while(ct>=k){
+        while(ct==k){
           if(nums[ptr]==maxa)ct--; 
           ptr++; 
           ans+=(n-i);
