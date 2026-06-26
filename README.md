@@ -883,6 +883,7 @@ Author-Aadarsh Singh <great man>
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
@@ -947,6 +948,7 @@ Author-Aadarsh Singh <great man>
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
@@ -995,6 +997,7 @@ Author-Aadarsh Singh <great man>
 | [0189-rotate-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0696-count-binary-substrings) |
@@ -1413,6 +1416,7 @@ Author-Aadarsh Singh <great man>
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
@@ -1656,6 +1660,7 @@ Author-Aadarsh Singh <great man>
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
 ## Ordered Set
