@@ -3,8 +3,6 @@ public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         
          int m=nums1.size(), n=nums2.size();
-        sort(nums1.begin(),nums1.end());
-        sort(nums2.begin(),nums2.end());
         vector<vector<int>> ans;
         
         priority_queue<tuple<int,int,int>,vector<tuple<int,int,int>>,greater<>> pq;
