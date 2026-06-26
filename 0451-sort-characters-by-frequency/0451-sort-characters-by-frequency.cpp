@@ -1,23 +1,18 @@
 class Solution {
 public:
-static bool comp(pair<char,int> &a,pair<char,int>&b){
-    if(a.first!=b.first) return a.second>b.second;
-    return a.first<b.first;
-}
     string frequencySort(string s) {
         map<char,int> m;
         for(auto it:s)m[it]++;
-        vector<pair<char,int>> v;
-        for(auto it:m) v.push_back({it.first,it.second});
-        sort(v.begin(),v.end(),comp);
-        string ans;
-        for(int i=0; i<v.size(); i++){
-            char x=v[i].first; int y=v[i].second;
-            while(y--){
-                ans.push_back(x);
-            }
-        }
 
+        priority_queue<pair<int,int>>pq;
+        for(auto it:m)pq.push({it.second,it.first});
+       string ans;
+       while(!pq.empty()){
+            int ct=pq.top().first;
+            char x=pq.top().second;
+            pq.pop();
+            while(ct--)ans+=x;
+       }
         return ans;
     }
 };
