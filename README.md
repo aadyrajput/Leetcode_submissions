@@ -396,6 +396,7 @@ Author-Aadarsh Singh <great man>
 | [0402-remove-k-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
@@ -436,6 +437,7 @@ Author-Aadarsh Singh <great man>
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [0992-subarrays-with-k-different-integers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -553,6 +555,7 @@ Author-Aadarsh Singh <great man>
 | [0542-01-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0546-remove-boxes) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0679-24-game) |
@@ -788,6 +791,7 @@ Author-Aadarsh Singh <great man>
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
@@ -877,6 +881,7 @@ Author-Aadarsh Singh <great man>
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
@@ -935,6 +940,7 @@ Author-Aadarsh Singh <great man>
 | [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
