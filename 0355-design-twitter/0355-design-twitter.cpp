@@ -18,32 +18,16 @@ public:
         vector<int> ans;
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>> pq;
         for(auto it:follows[userId]){
-            set<pair<int,int>> temp=m[it];
-            for(int i=0;i<10;i++){
-                if(temp.empty())break;
-                 auto it=*(--temp.end());
-                 temp.erase(--temp.end());
-                int a=it.first, b=it.second;
-                if(pq.size()==10 && pq.top().first>a)break;
-                while(pq.size()==10)pq.pop();
-                pq.push({a,b});
+            for(auto it:m[it]){
+                pq.push({it.first,it.second});
             }
         }
+        for(auto it:m[userId])pq.push({it.first,it.second});
 
-        set<pair<int,int>> temp=m[userId];
-            for(int i=0;i<10;i++){
-                if(temp.empty())break;
-                auto it=*(--temp.end());
-                temp.erase(--temp.end());
-                int a=it.first, b=it.second;
-                if(pq.size()==10 && pq.top().first>a)break;
-                while(pq.size()==10)pq.pop();
-                pq.push({a,b});
-            }
+        while(pq.size()>10)pq.pop();
 
         while(!pq.empty()){
-            ans.push_back(pq.top().second);
-            pq.pop();
+            ans.push_back(pq.top().second); pq.pop();
         }
         reverse(ans.begin(),ans.end());
         return ans;
