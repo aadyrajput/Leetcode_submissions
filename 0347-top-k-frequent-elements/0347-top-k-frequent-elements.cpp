@@ -6,9 +6,9 @@ public:
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>> pq;
         for(auto it:m){
             pq.push({it.second,it.first});
-        }
-        while(pq.size()>k){
+         while(pq.size()>k){
             pq.pop();
+        }
         }
         vector<int> ans;
         while(!pq.empty()){
