@@ -787,6 +787,7 @@ Author-Aadarsh Singh <great man>
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -943,6 +944,7 @@ Author-Aadarsh Singh <great man>
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
+| [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
@@ -1405,6 +1407,7 @@ Author-Aadarsh Singh <great man>
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
@@ -1568,6 +1571,7 @@ Author-Aadarsh Singh <great man>
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
