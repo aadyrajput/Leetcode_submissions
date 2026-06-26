@@ -399,6 +399,7 @@ Author-Aadarsh Singh <great man>
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
@@ -571,6 +572,7 @@ Author-Aadarsh Singh <great man>
 | [0827-making-a-large-island](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0830-largest-triangle-area) |
 | [0839-similar-string-groups](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0839-similar-string-groups) |
+| [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-koko-eating-bananas) |
@@ -798,6 +800,7 @@ Author-Aadarsh Singh <great man>
 | [0752-open-the-lock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0815-bus-routes) |
 | [0839-similar-string-groups](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0839-similar-string-groups) |
+| [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
@@ -884,6 +887,7 @@ Author-Aadarsh Singh <great man>
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0761-special-binary-string) |
+| [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
