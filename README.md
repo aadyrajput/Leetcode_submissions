@@ -547,6 +547,7 @@ Author-Aadarsh Singh <great man>
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0435-non-overlapping-intervals) |
+| [0480-sliding-window-median](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0494-target-sum) |
@@ -795,6 +796,7 @@ Author-Aadarsh Singh <great man>
 | [0433-minimum-genetic-mutation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
@@ -953,6 +955,7 @@ Author-Aadarsh Singh <great man>
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
@@ -1268,6 +1271,7 @@ Author-Aadarsh Singh <great man>
 | [0413-arithmetic-slices](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0904-fruit-into-baskets) |
