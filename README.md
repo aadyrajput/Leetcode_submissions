@@ -543,6 +543,7 @@ Author-Aadarsh Singh <great man>
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0413-arithmetic-slices) |
@@ -954,6 +955,7 @@ Author-Aadarsh Singh <great man>
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
