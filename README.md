@@ -600,6 +600,7 @@ Author-Aadarsh Singh <great man>
 | [1035-uncrossed-lines](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1052-grumpy-bookstore-owner) |
@@ -967,6 +968,7 @@ Author-Aadarsh Singh <great man>
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
