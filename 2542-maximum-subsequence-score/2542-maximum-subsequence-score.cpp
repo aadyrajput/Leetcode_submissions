@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // nums2 ko descending order me arrange karlo, nums1 ko isse ke order rearragne karlo, ab hame pta hai ith nums2 ki value min hai, to us index ke pahle ki values on nums1 ka sum karo aur nums2[i] se product karo, min heap ka size k rakho 
+    
     long long maxScore(vector<int>& nums1, vector<int>& nums2, int k) {
         vector<pair<int,int>> v;
         int n=nums1.size();
