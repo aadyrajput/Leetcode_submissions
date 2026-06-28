@@ -324,6 +324,7 @@ Author-Aadarsh Singh <great man>
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1405-longest-happy-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1405-longest-happy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -409,6 +410,7 @@ Author-Aadarsh Singh <great man>
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1402-reducing-dishes) |
+| [1405-longest-happy-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1405-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -981,6 +983,7 @@ Author-Aadarsh Singh <great man>
 | [0787-cheapest-flights-within-k-stops](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1046-last-stone-weight) |
+| [1405-longest-happy-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1405-longest-happy-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
