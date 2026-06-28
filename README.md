@@ -719,6 +719,7 @@ Author-Aadarsh Singh <great man>
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -867,6 +868,7 @@ Author-Aadarsh Singh <great man>
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -951,6 +953,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1005,6 +1008,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -1540,6 +1544,7 @@ Author-Aadarsh Singh <great man>
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3379-transformed-array) |
