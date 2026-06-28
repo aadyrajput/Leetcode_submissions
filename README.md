@@ -429,6 +429,7 @@ Author-Aadarsh Singh <great man>
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -715,6 +716,7 @@ Author-Aadarsh Singh <great man>
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
@@ -1001,6 +1003,7 @@ Author-Aadarsh Singh <great man>
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
