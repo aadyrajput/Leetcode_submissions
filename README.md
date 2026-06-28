@@ -187,6 +187,7 @@ Author-Aadarsh Singh <great man>
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1631-path-with-minimum-effort) |
@@ -637,6 +638,7 @@ Author-Aadarsh Singh <great man>
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -923,6 +925,7 @@ Author-Aadarsh Singh <great man>
 | [1402-reducing-dishes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1402-reducing-dishes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -1028,6 +1031,7 @@ Author-Aadarsh Singh <great man>
 | [0959-3sum-with-multiplicity](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0959-3sum-with-multiplicity) |
 | [1048-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1129-longest-string-chain](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1129-longest-string-chain) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1470,6 +1474,7 @@ Author-Aadarsh Singh <great man>
 | [1248-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
