@@ -815,6 +815,7 @@ Author-Aadarsh Singh <great man>
 | [0433-minimum-genetic-mutation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1462,6 +1463,7 @@ Author-Aadarsh Singh <great man>
 | [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1627,6 +1629,7 @@ Author-Aadarsh Singh <great man>
 | [0237-delete-node-in-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1903,6 +1906,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Minimum Spanning Tree
 |  |
