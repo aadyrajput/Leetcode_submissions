@@ -2,18 +2,17 @@ class Solution {
 public:
     int candy(vector<int>& ratings) {
         int n=ratings.size();
-        vector<int> pre(n,1),suf(n,1);
+        vector<int> pre(n,1),suff(n,1);
         for(int i=1;i<n;i++){
-            if(ratings[i]>ratings[i-1])pre[i]=pre[i-1]+1;
+            if(ratings[i]>ratings[i-1])pre[i]=1+pre[i-1];
         }
-        for(int i=n-2;i>=0; i--){
-            if(ratings[i]>ratings[i+1])suf[i]=suf[i+1]+1;
+        for(int i=n-2;i>=0;i--){
+            if(ratings[i]>ratings[i+1])suff[i]=1+suff[i+1];
         }
         int ans=0;
         for(int i=0;i<n;i++){
-            ans+=max(pre[i],suf[i]);
+            ans+=max(pre[i],suff[i]);
         }
         return ans;
-
     }
 };
