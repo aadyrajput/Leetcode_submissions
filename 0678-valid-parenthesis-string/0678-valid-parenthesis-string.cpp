@@ -15,6 +15,8 @@ public:
             }
             
             if(mina<0)mina=0;
+
+            if(maxa<0)return false;      // edge case
          }
          if(mina==0)return true;
          return false;
