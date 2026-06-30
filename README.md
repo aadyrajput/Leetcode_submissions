@@ -335,6 +335,7 @@ Author-Aadarsh Singh <great man>
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -672,6 +673,7 @@ Author-Aadarsh Singh <great man>
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
