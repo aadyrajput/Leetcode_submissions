@@ -8,9 +8,9 @@ public:
         int n=intervals.size();
         sort(intervals.begin(),intervals.end(),comp);
 
-        int maxa=-1, mina=-1;
-        int ans=0;
-        for(int i=0; i<n; i++){
+        int maxa=intervals[0][1], mina=maxa-1;
+        int ans=2;
+        for(int i=1; i<n; i++){
             int a=intervals[i][0], b=intervals[i][1];
             if(maxa<a){
                 mina=b-1, maxa=b; ans+=2;
