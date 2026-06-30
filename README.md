@@ -354,6 +354,7 @@ Author-Aadarsh Singh <great man>
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3462-vowels-game-in-a-string) |
@@ -437,6 +438,7 @@ Author-Aadarsh Singh <great man>
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -466,6 +468,7 @@ Author-Aadarsh Singh <great man>
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2833-furthest-point-from-origin](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2833-furthest-point-from-origin) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3713-longest-balanced-substring-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
