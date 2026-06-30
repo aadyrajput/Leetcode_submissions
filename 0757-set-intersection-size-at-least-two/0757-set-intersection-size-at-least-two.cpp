@@ -12,10 +12,11 @@ public:
         int ans=0;
         for(int i=0; i<n; i++){
             int a=intervals[i][0], b=intervals[i][1];
+            if(mina>=a)continue;
             if(maxa<a){
                 mina=b-1, maxa=b; ans+=2;
             }
-            else if(a>mina){
+            else{
                 ans++; mina=maxa,maxa=b;
            }
         }
