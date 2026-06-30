@@ -435,6 +435,7 @@ Author-Aadarsh Singh <great man>
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
+| [2561-rearranging-fruits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2561-rearranging-fruits) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -729,6 +730,7 @@ Author-Aadarsh Singh <great man>
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
+| [2561-rearranging-fruits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2561-rearranging-fruits) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
@@ -883,6 +885,7 @@ Author-Aadarsh Singh <great man>
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
+| [2561-rearranging-fruits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2561-rearranging-fruits) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -970,6 +973,7 @@ Author-Aadarsh Singh <great man>
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
+| [2561-rearranging-fruits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2561-rearranging-fruits) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2887-sort-vowels-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2887-sort-vowels-in-a-string) |
