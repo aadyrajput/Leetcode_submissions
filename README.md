@@ -442,6 +442,7 @@ Author-Aadarsh Singh <great man>
 | [3689-maximum-total-subarray-value-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Counting
@@ -779,6 +780,7 @@ Author-Aadarsh Singh <great man>
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -976,6 +978,7 @@ Author-Aadarsh Singh <great man>
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
