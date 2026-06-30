@@ -729,6 +729,7 @@ Author-Aadarsh Singh <great man>
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
@@ -1293,6 +1294,7 @@ Author-Aadarsh Singh <great man>
 | [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -1677,6 +1679,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Segment Tree
