@@ -405,6 +405,7 @@ Author-Aadarsh Singh <great man>
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0757-set-intersection-size-at-least-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
@@ -584,6 +585,7 @@ Author-Aadarsh Singh <great man>
 | [0735-asteroid-collision](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0752-open-the-lock) |
+| [0757-set-intersection-size-at-least-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
@@ -924,6 +926,7 @@ Author-Aadarsh Singh <great man>
 | [0594-longest-harmonious-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0721-accounts-merge) |
+| [0757-set-intersection-size-at-least-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
