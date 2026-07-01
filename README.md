@@ -410,6 +410,7 @@ Author-Aadarsh Singh <great man>
 | [0757-set-intersection-size-at-least-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0767-reorganize-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
+| [0861-score-after-flipping-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1018-largest-perimeter-triangle) |
@@ -602,6 +603,7 @@ Author-Aadarsh Singh <great man>
 | [0830-largest-triangle-area](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0830-largest-triangle-area) |
 | [0839-similar-string-groups](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
+| [0861-score-after-flipping-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-koko-eating-bananas) |
@@ -1394,6 +1396,7 @@ Author-Aadarsh Singh <great man>
 | [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0861-score-after-flipping-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1009-complement-of-base-10-integer) |
@@ -1616,6 +1619,7 @@ Author-Aadarsh Singh <great man>
 | [0778-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0827-making-a-large-island) |
+| [0861-score-after-flipping-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1020-number-of-enclaves) |
