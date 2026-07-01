@@ -555,6 +555,7 @@ Author-Aadarsh Singh <great man>
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -1376,6 +1377,7 @@ Author-Aadarsh Singh <great man>
 | [0190-reverse-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0401-binary-watch) |
