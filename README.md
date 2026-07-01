@@ -537,6 +537,7 @@ Author-Aadarsh Singh <great man>
 | [0130-surrounded-regions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1374,6 +1375,7 @@ Author-Aadarsh Singh <great man>
 | [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
