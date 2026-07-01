@@ -1306,6 +1306,7 @@ Author-Aadarsh Singh <great man>
 | [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1693,6 +1694,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
