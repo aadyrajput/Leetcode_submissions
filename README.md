@@ -199,6 +199,7 @@ Author-Aadarsh Singh <great man>
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -742,6 +743,7 @@ Author-Aadarsh Singh <great man>
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1036,6 +1038,7 @@ Author-Aadarsh Singh <great man>
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1254,6 +1257,7 @@ Author-Aadarsh Singh <great man>
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2360-longest-cycle-in-a-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Math
@@ -1627,6 +1631,7 @@ Author-Aadarsh Singh <great man>
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2737-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1867,6 +1872,7 @@ Author-Aadarsh Singh <great man>
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Graph Theory
