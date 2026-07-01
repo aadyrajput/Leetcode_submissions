@@ -1166,6 +1166,7 @@ Author-Aadarsh Singh <great man>
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1297,6 +1298,7 @@ Author-Aadarsh Singh <great man>
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1448-maximum-69-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1642-water-bottles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1399,6 +1401,7 @@ Author-Aadarsh Singh <great man>
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1557,6 +1560,7 @@ Author-Aadarsh Singh <great man>
 | [0326-power-of-three](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2050-count-good-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1676,6 +1680,7 @@ Author-Aadarsh Singh <great man>
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0139-word-break) |
 | [0546-remove-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0546-remove-boxes) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
