@@ -1390,6 +1390,7 @@ Author-Aadarsh Singh <great man>
 | [0934-bitwise-ors-of-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1009-complement-of-base-10-integer) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
