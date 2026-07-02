@@ -5,7 +5,7 @@ public:
         long long ans=0;
         for(int i=1;i<=n;i++){
             int z=log2(i)+1;
-            ans=((ans<<z)|i);
+            ans=(ans<<z)|i;
             ans=ans%M;
         }
     return ans;
