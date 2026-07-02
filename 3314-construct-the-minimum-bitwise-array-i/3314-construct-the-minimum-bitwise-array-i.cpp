@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<int> minBitwiseArray(vector<int>& nums) {
-            vector<int> ans;
-            for(auto it:nums){
-                if(it==2){ans.push_back(-1); continue;}
-                bool flag=false;
-                for(int i=1; i<it;i++){
-                        int j=i+1;
-                        int z= i|j;
-                        if(z==it){flag=true; ans.push_back(i); break;}
-                }
-                if(!flag)ans.push_back(-1);
+        int n=nums.size();
+        vector<int> ans(n,0);
+        for(int i=0;i<n;i++){
+            if(nums[i]%2==0){
+                ans[i]=-1; continue;
             }
-    return ans;
+            for(int j=0;j<nums[i];j++){
+                if((j|(j+1))==nums[i]){ans[i]=j; break;}
+            }
+        }
+
+        return ans;
     }
 };
