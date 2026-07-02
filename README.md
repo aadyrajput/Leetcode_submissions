@@ -471,6 +471,7 @@ Author-Aadarsh Singh <great man>
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2833-furthest-point-from-origin](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2833-furthest-point-from-origin) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -715,6 +716,7 @@ Author-Aadarsh Singh <great man>
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -890,6 +892,7 @@ Author-Aadarsh Singh <great man>
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2421-number-of-good-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2421-number-of-good-paths) |
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
@@ -1412,6 +1415,7 @@ Author-Aadarsh Singh <great man>
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
