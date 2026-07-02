@@ -1,30 +1,21 @@
 class Solution {
 public:
     int numSteps(string s) {
+        int n=s.size();
         int ans=0;
-    while(s.size()!=1){
-        ans++;
-        if(s.back()=='0')s.pop_back();
-        else{
-            reverse(s.begin(),s.end());
-            int car=1;
-            string ss="0";
-            for(int i=1;i<s.size(); i++){
-                if(s[i]=='1'){
-                    if(car==1)ss+='0';
-                    else{ss+=s[i]; car=0;}
-                }
-                else{
-                    if(car==1){ss+='1'; car=0;}
-                    else ss+='0';
-                }
+        int carry=0;
+        for(int i=n-1;i>=1;i--){
+            if(s[i]=='0'){
+                if(carry==0)ans++;
+                else ans+=2;
             }
-            if(car==1)ss+='1';
-            reverse(ss.begin(),ss.end());
-            s=ss;
+            else{
+                if(carry==0){carry=1; ans+=2;}
+                else{carry=1; ans++;}
+            }
         }
-    }
-        
+
+    if(carry==1)ans++;
     return ans;
     }
 };
