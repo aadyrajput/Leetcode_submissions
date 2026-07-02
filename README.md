@@ -434,6 +434,7 @@ Author-Aadarsh Singh <great man>
 | [2126-destroying-asteroids](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2429-minimize-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-minimize-xor) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
@@ -1423,6 +1424,7 @@ Author-Aadarsh Singh <great man>
 | [2317-maximum-xor-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2317-maximum-xor-after-operations) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-minimize-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-minimize-xor) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
