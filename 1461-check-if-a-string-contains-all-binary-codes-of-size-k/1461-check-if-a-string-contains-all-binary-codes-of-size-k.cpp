@@ -1,23 +1,21 @@
 class Solution {
 public:
     bool hasAllCodes(string s, int k) {
-      set<string> st;
-      int n=s.size();
-      if(k>n)return false;
-      int no=1<<k;
-
-    string temp="";
-      for(int i=0;i<k;i++){
-        temp+=s[i];
-      }
-      st.insert(temp);
-      for(int i=k;i<n;i++){
-        temp.erase(0,1);
-        temp+=s[i];
-        st.insert(temp);
-      }
-      int z=st.size();
-      if(z==no)return true;
-      return false;
+        set<int> st;
+        int z=0; int ptr=0;
+        for(int i=0;i<s.size();i++){
+            z=z*2;
+            if(s[i]=='1')z++;
+            if(i<k-1)continue;
+            else if(i==k-1)st.insert(z);
+            else{
+                if(s[ptr]=='1')z-=(1<<k);
+                ptr++;
+                st.insert(z);
+            }
+        }    
+        int zz=1<<k;
+        if(st.size()==zz)return true;
+        return false;
     }
 };
