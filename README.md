@@ -1431,6 +1431,7 @@ Author-Aadarsh Singh <great man>
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3133-minimum-array-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3133-minimum-array-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
