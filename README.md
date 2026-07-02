@@ -760,6 +760,7 @@ Author-Aadarsh Singh <great man>
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -1043,6 +1044,7 @@ Author-Aadarsh Singh <great man>
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1263,6 +1265,7 @@ Author-Aadarsh Singh <great man>
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -1645,6 +1648,7 @@ Author-Aadarsh Singh <great man>
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1928,6 +1932,7 @@ Author-Aadarsh Singh <great man>
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
@@ -1950,6 +1955,7 @@ Author-Aadarsh Singh <great man>
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
 |  |
