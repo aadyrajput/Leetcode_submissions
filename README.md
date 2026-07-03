@@ -682,6 +682,7 @@ Author-Aadarsh Singh <great man>
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
+| [1829-maximum-xor-for-each-query](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1834-single-threaded-cpu](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1834-single-threaded-cpu) |
@@ -1423,6 +1424,7 @@ Author-Aadarsh Singh <great man>
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1829-maximum-xor-for-each-query](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1829-maximum-xor-for-each-query) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1556,6 +1558,7 @@ Author-Aadarsh Singh <great man>
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1829-maximum-xor-for-each-query](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1829-maximum-xor-for-each-query) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2483-minimum-penalty-for-a-shop) |
