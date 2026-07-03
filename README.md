@@ -759,6 +759,7 @@ Author-Aadarsh Singh <great man>
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -1385,6 +1386,7 @@ Author-Aadarsh Singh <great man>
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -1432,6 +1434,7 @@ Author-Aadarsh Singh <great man>
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2959-number-of-possible-sets-of-closing-branches](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2959-number-of-possible-sets-of-closing-branches) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3133-minimum-array-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3133-minimum-array-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
