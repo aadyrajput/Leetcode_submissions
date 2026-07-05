@@ -164,6 +164,7 @@ Author-Aadarsh Singh <great man>
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0410-split-array-largest-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -568,6 +569,7 @@ Author-Aadarsh Singh <great man>
 | [0283-move-zeroes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
@@ -1469,6 +1471,7 @@ Author-Aadarsh Singh <great man>
 | [0190-reverse-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
@@ -1753,6 +1756,7 @@ Author-Aadarsh Singh <great man>
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1764,6 +1768,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
@@ -1796,6 +1801,7 @@ Author-Aadarsh Singh <great man>
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
@@ -1860,6 +1866,7 @@ Author-Aadarsh Singh <great man>
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Quickselect
