@@ -28,7 +28,7 @@ public:
                     }
                     else if (a == b && a != c && a != d) {
                         if (m[a] < 2) continue;
-                        if (c == d && m[c] < 2) continue;
+                        if (c == d && m[c]<2) continue;
                         vector<long long> t = {a, a, c, d};
                         s.insert(t);
                     }
