@@ -4,9 +4,7 @@ public:
        int n=nums.size();
        sort(nums.begin(),nums.end());
        if(n==0)return 0;
-       if(n==1)return 1;
-       int ans=1;
-       int ct=1; 
+       int ans=1, ct=1; 
        for(int i=0;i<n-1;i++){
             if(nums[i]==nums[i+1])continue;
             if(nums[i]+1==nums[i+1]){
