@@ -189,6 +189,7 @@ Author-Aadarsh Singh <great man>
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -668,6 +669,7 @@ Author-Aadarsh Singh <great man>
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
