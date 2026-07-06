@@ -1,36 +1,39 @@
 class Solution {
-private:
-    int solve(int mid,vector<int>&arr,int k){
-       int student=0;
-       int ans=0;
+public:
+    bool fun(long long mid,vector<int>&arr,int k){
+       int ct=1;
+       long long sum=0;
        for(int i=0;i<arr.size();i++){
-           if(ans+arr[i]<=mid){
-               ans+=arr[i];
+           if(sum+arr[i]<=mid){
+               sum+=arr[i];
            }
            else{
-               student++;
-               ans=arr[i];
+               sum=arr[i]; 
+               ct++;
            }
        }
-        if(student>=k) return true;
-        return false;
-        
+       if(ct<=k)return true;
+       return false;
     }
-public:
+
     int splitArray(vector<int>& nums, int k) {
-       int n=nums.size();
-        int sum=0; for(auto it:nums)sum+=it;
-        if(k>n){return -1;}
-        int lo=*max_element(nums.begin(),nums.end());
-        int hi=sum;
+        vector<int> arr=nums;
+         int n=arr.size();
+        long long sum=0; int maxa=INT_MIN;
+        for(auto it:arr){sum+=it; maxa=max(maxa,it);}
+        
+        long long lo=maxa, hi=sum;
+        long long ans=0;
+        
         while(lo<=hi){
-            int mid=lo+ (hi-lo)/2;
-            if(solve(mid,nums,k)){
+            long long mid=(lo+hi)/2;
+            if(fun(mid,arr,k)){
+                ans=mid; hi=mid-1;
+            }
+            else{
                 lo=mid+1;
             }
-            else hi=mid-1;
         }
-        return lo;
-         
+        return ans;
     }
 };
