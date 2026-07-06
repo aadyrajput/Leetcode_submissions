@@ -186,6 +186,7 @@ Author-Aadarsh Singh <great man>
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1382-balance-a-binary-search-tree) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -651,6 +652,7 @@ Author-Aadarsh Singh <great man>
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1345-jump-game-iv) |
