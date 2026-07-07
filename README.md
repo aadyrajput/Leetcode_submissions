@@ -206,6 +206,7 @@ Author-Aadarsh Singh <great man>
 | [2187-minimum-time-to-complete-trips](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2439-minimize-maximum-of-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2439-minimize-maximum-of-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -444,6 +445,7 @@ Author-Aadarsh Singh <great man>
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2285-maximum-total-importance-of-roads](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2429-minimize-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-minimize-xor) |
+| [2439-minimize-maximum-of-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2439-minimize-maximum-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2542-maximum-subsequence-score) |
@@ -753,6 +755,7 @@ Author-Aadarsh Singh <great man>
 | [2429-design-a-food-rating-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2439-minimize-maximum-of-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2439-minimize-maximum-of-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2479-meeting-rooms-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2479-meeting-rooms-iii) |
@@ -1219,6 +1222,7 @@ Author-Aadarsh Singh <great man>
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2439-minimize-maximum-of-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2439-minimize-maximum-of-array) |
 | [2573-find-the-string-with-lcp](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1587,6 +1591,7 @@ Author-Aadarsh Singh <great man>
 | [1829-maximum-xor-for-each-query](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1829-maximum-xor-for-each-query) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2439-minimize-maximum-of-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2439-minimize-maximum-of-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2529-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2615-sum-of-distances) |
