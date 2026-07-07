@@ -179,6 +179,7 @@ Author-Aadarsh Singh <great man>
 | [0784-insert-into-a-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -626,6 +627,7 @@ Author-Aadarsh Singh <great man>
 | [0830-largest-triangle-area](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0830-largest-triangle-area) |
 | [0839-similar-string-groups](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0839-similar-string-groups) |
 | [0846-hand-of-straights](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0846-hand-of-straights) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0890-lemonade-change) |
