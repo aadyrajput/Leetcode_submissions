@@ -203,6 +203,7 @@ Author-Aadarsh Singh <great man>
 | [1901-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2054-two-best-non-overlapping-events) |
+| [2187-minimum-time-to-complete-trips](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -729,6 +730,7 @@ Author-Aadarsh Singh <great man>
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
