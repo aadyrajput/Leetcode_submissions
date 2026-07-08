@@ -1,15 +1,18 @@
 class Solution {
 public:
+  int dp[1001][1001];
   bool check(string &s,int i,int j){
-    while(i<j){
-        if(s[i]!=s[j])return false;
-        i++;
-        j--;
-    }
-    return true;
+        if(i>=j){
+            return 1;
+        }
+        if(dp[i][j]!=-1)return dp[i][j];
+
+        if(s[i]==s[j]) return dp[i][j]=check(s,i+1,j-1);
+    return 0;
   }
     string longestPalindrome(string s) {
         int n=s.size();
+        memset(dp,-1,sizeof(dp));
         int stind=0; int mxlen=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
