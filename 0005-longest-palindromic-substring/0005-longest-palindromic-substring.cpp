@@ -8,7 +8,7 @@ public:
         if(dp[i][j]!=-1)return dp[i][j];
 
         if(s[i]==s[j]) return dp[i][j]=check(s,i+1,j-1);
-    return 0;
+    return dp[i][j]=0;
   }
     string longestPalindrome(string s) {
         int n=s.size();
