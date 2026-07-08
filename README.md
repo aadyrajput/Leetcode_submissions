@@ -351,6 +351,7 @@ Author-Aadarsh Singh <great man>
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -490,6 +491,7 @@ Author-Aadarsh Singh <great man>
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -926,6 +928,7 @@ Author-Aadarsh Singh <great man>
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1857-largest-color-value-in-a-directed-graph) |
