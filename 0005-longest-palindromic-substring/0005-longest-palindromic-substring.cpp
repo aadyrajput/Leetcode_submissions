@@ -1,30 +1,27 @@
 class Solution {
 public:
-  int dp[1001][1001];
-  bool check(string &s,int i,int j){
-        if(i>=j){
-            return 1;
-        }
-        if(dp[i][j]!=-1)return dp[i][j];
-
-        if(s[i]==s[j]) return dp[i][j]=check(s,i+1,j-1);
-    return dp[i][j]=0;
-  }
     string longestPalindrome(string s) {
-        int n=s.size();
-        memset(dp,-1,sizeof(dp));
-        int stind=0; int mxlen=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(check(s,i,j)){
-                    if(mxlen<j-i+1){
-                        mxlen=j-i+1;
-                        stind=i;
-                    }
-                }
-            }
+        string t = "#";
+        for(char c : s) t += c, t += '#';
+
+        int n = t.size(), c = 0, r = 0, mx = 0, id = 0;
+        vector<int> p(n);
+
+        for(int i = 0; i < n; i++) {
+            if(i < r) p[i] = min(r - i, p[2 * c - i]);
+
+            while(i - p[i] - 1 >= 0 &&
+                  i + p[i] + 1 < n &&
+                  t[i - p[i] - 1] == t[i + p[i] + 1])
+                p[i]++;
+
+            if(i + p[i] > r)
+                c = i, r = i + p[i];
+
+            if(p[i] > mx)
+                mx = p[i], id = i;
         }
 
-        return s.substr(stind,mxlen);
+        return s.substr((id - mx) / 2, mx);
     }
 };
