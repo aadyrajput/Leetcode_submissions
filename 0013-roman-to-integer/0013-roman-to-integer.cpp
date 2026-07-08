@@ -1,16 +1,16 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        map<char,int> m;
-        m['I']=1; m['X']=10; m['V']=5; m['L']=50;
-        m['C']=100; m['D']=500; m['M']=1000;
-        int ans=0; int prev=0;
-        for(int i=s.size()-1; i>=0; i--){
-            int x=m[s[i]];
-            if(prev>x) ans-=x;
-            else ans+=x;
-            prev=x;
+        map<char,int> m={
+            {'I',1},{'V',5},{'X',10},{'L',50},{'C',100},{'D',500},{'M',1000}
+        };
+        int prev=0;
+        int sum=0;
+        int n=s.size();
+        for(int i=n-1; i>=0; i--){
+            if(m[s[i]]<prev)sum-=m[s[i]];
+            else {sum+=m[s[i]]; prev=m[s[i]];}
         }
-        return ans;
+    return sum;
     }
 };
