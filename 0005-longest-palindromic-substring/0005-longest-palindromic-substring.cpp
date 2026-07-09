@@ -1,27 +1,41 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        string t = "#";
-        for(char c : s) t += c, t += '#';
+        string t ="#";
+        for(auto it:s){
+            t+=it; t+='#';
+        }
+        int n=t.size();
+        vector<int> p(n,0);
 
-        int n = t.size(), c = 0, r = 0, mx = 0, id = 0;
-        vector<int> p(n);
+        int l=0, r=-1;
+        for(int i=0;i<n;i++){
+            int k;
+            if(i>r)k=1;
+            else{
+                int j=r-i+l;
+                k=min(p[j],r-i);
+            }
 
-        for(int i = 0; i < n; i++) {
-            if(i < r) p[i] = min(r - i, p[2 * c - i]);
+            while(i-k>=0 && i+k<n && t[i-k]==t[i+k]){
+                k++;
+            }
+            k--;
 
-            while(i - p[i] - 1 >= 0 &&
-                  i + p[i] + 1 < n &&
-                  t[i - p[i] - 1] == t[i + p[i] + 1])
-                p[i]++;
-
-            if(i + p[i] > r)
-                c = i, r = i + p[i];
-
-            if(p[i] > mx)
-                mx = p[i], id = i;
+            p[i]=k;
+            if(i+k>r){
+                l=i-k; r=i+k;
+            }
         }
 
-        return s.substr((id - mx) / 2, mx);
+int best = 0, idx = 0;
+for(int i=0;i<n;i++){
+    if(p[i] > best){
+        best = p[i];
+        idx = i;
+    }
+}
+
+return s.substr((idx - best + 1)/2, best);
     }
 };
