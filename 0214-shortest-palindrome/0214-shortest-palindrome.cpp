@@ -4,7 +4,7 @@ public:
         int n=s.size();
         string rev=s;
         reverse(rev.begin(),rev.end());
-
+                                                                    // O(n^2)
         for(int i=0; i<n; i++){
             if(!memcmp(s.c_str(),rev.c_str()+i,n-i)){
                 return rev.substr(0,i)+s;
