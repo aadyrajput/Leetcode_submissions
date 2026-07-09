@@ -302,6 +302,7 @@ Author-Aadarsh Singh <great man>
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
 | [0402-remove-k-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0402-remove-k-digits) |
@@ -1786,6 +1787,7 @@ Author-Aadarsh Singh <great man>
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0812-rotate-string) |
 ## Bucket Sort
@@ -2068,10 +2070,12 @@ Author-Aadarsh Singh <great man>
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Concurrency
 |  |
