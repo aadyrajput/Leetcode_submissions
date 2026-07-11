@@ -1,5 +1,5 @@
 class Solution {
-public:
+public:              /// go to middle, reverse second half then compare with first half
     ListNode* reverse(ListNode* head){
         ListNode *prev = NULL, *curr = head;
 
