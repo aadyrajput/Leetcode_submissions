@@ -9,16 +9,14 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if(head==NULL)return NULL;
-        map<ListNode*,bool> m;
+       if(head==NULL || head->next==NULL) return NULL;
+        map<ListNode*,int> m;
         ListNode* temp=head;
-        bool flag=false;
         while(temp){
-            if(m[temp]){flag=true; break;}    
-            m[temp]=true;
-            temp=temp->next; 
+            if(m.find(temp)!=m.end())return temp;
+            m[temp]++;
+            temp=temp->next;
         }
-        if(flag)return temp;
-        return NULL;
+    return NULL;
     }
 };
