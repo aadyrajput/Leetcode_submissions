@@ -10,36 +10,56 @@
  */
 class Solution {
 public:
+ListNode* reverse(ListNode* x){
+     if(x==NULL || x->next==NULL)return x;
+        ListNode* prev=NULL;
+        ListNode* curr=x;
+        while(curr){
+            ListNode* z=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=z;
+        }
+    return prev;
+}
+
+    ListNode* giveKthNode(ListNode* z,int k){
+        int ct=0;
+        while(z){
+            ct++;
+            if(ct==k) return z;
+            z=z->next;
+        }
+        return NULL;
+    }
+
     ListNode* reverseKGroup(ListNode* head, int k) {
-        vector<int> v,ans;
         ListNode* temp=head;
+        ListNode* nextNode;
+        ListNode* prevNode=NULL;
+
         while(temp){
-        v.push_back(temp->val);
-        temp=temp->next;
-        }
-        int n=v.size();
-        stack<int> st;
-        for(int i=0;i<n;i++){
-            st.push(v[i]);
-            if(st.size()==k){
-                while(!st.empty()){
-                    ans.push_back(st.top());
-                    st.pop();
-                }
+            ListNode* kthNode=giveKthNode(temp,k);
+            if(kthNode==NULL){
+                if(prevNode)prevNode->next=temp;
+                break;
             }
+            nextNode=kthNode->next;
+            kthNode->next=NULL;
+            ListNode* rev=reverse(temp);
+            
+            if(temp==head){
+                head=kthNode;
+            }
+            else{
+                prevNode->next=kthNode;
+            }
+
+            prevNode=temp;
+            temp=nextNode;
         }
-        vector<int> tt;
-        while(!st.empty()){
-            tt.push_back(st.top()); st.pop();
-        }
-        reverse(tt.begin(),tt.end());
-        for(auto it:tt)ans.push_back(it);
-        int i=0;
-        temp=head;
-        while(temp){
-            temp->val=ans[i];
-            i++; temp=temp->next;
-        }
-        return head;   
+
+    return head;
+
     }
 };
