@@ -19,11 +19,8 @@ public:
         n++; 
         temp=temp->next;
      }
-
-     if(temp==NULL){
-        k=k%n;
-     }
-
+     if(temp==NULL) k=k%n;
+     
     if(k==0)return head;
 
     temp=head;
@@ -35,10 +32,8 @@ public:
         temp=temp->next;
         prev=prev->next;
     }
-
     ListNode* newhead=prev->next;
     prev->next=NULL;
-
     temp->next=head;
      
     return newhead;
