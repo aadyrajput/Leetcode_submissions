@@ -29,16 +29,9 @@ public:
                 t=t->next;
             }
         }
-        while(temp1){
-            t->next=temp1;
-            temp1=temp1->next;
-            t=t->next;
-        }
-        while(temp2){
-            t->next=temp2;
-            temp2=temp2->next;
-            t=t->next;
-        }
+        
+        if(temp1){t->next=temp1;}
+        if(temp2){t->next=temp2;}
 
     return dummy->next;
     }
