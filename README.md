@@ -696,6 +696,7 @@ Author-Aadarsh Singh <great man>
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1472-design-browser-history](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1472-design-browser-history) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1558,6 +1559,7 @@ Author-Aadarsh Singh <great man>
 | [1021-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1078-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1598,6 +1600,7 @@ Author-Aadarsh Singh <great man>
 | [0460-lfu-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
+| [1472-design-browser-history](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1472-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2169-simple-bank-system) |
@@ -1778,6 +1781,7 @@ Author-Aadarsh Singh <great man>
 | [0876-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1865,6 +1869,7 @@ Author-Aadarsh Singh <great man>
 | [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0937-online-stock-span) |
+| [1472-design-browser-history](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1472-design-browser-history) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2072,6 +2077,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Minimum Spanning Tree
 |  |
