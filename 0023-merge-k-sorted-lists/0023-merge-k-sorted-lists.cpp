@@ -10,28 +10,43 @@
  */
 class Solution {
 public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<int,vector<int>,greater<>> pq;
-        if(lists.size()==0)return nullptr;
+        ListNode* merge(ListNode *x,ListNode* y){
+        ListNode* temp1=x;
+        ListNode* temp2=y;
 
-        for(auto it:lists){
-            while(it!=nullptr){
-                pq.push(it->val);
-                it=it->next;
+        ListNode* dummy= new ListNode(-1);
+        ListNode* t=dummy;
+
+        while(temp1!=NULL && temp2!=NULL){
+            if(temp1->val <= temp2->val){
+                t->next=temp1;
+                temp1=temp1->next;
+                t=t->next;
+            }    
+            else{
+                t->next=temp2;
+                temp2=temp2->next;
+                t=t->next;
             }
         }
-       if(pq.size()==0)return nullptr;
+        
+        if(temp1){t->next=temp1;}
+        if(temp2){t->next=temp2;}
 
-        ListNode* head=new ListNode(pq.top());
-        pq.pop();
-        ListNode* temp=head;
-        while(!pq.empty()){
-            ListNode* z=new ListNode(pq.top());
-            pq.pop();
-            temp->next=z;
-            temp=temp->next;
+    return dummy->next;
+    }
+
+    ListNode* recurr(int i,vector<ListNode*> &v,int n){
+        if(i==n-1){
+            return v[n-1];
         }
-        return head;
+        return merge(v[i],recurr(i+1,v,n));
+    }
 
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+       int n=lists.size(); 
+        if(n==0)return NULL;
+
+       return recurr(0,lists,n);
     }
 };
