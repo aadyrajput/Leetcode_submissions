@@ -510,6 +510,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0204-count-primes](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1291-sequential-digits) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
