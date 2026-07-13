@@ -874,6 +874,7 @@ Author-Aadarsh Singh <great man>
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -1762,6 +1763,7 @@ Author-Aadarsh Singh <great man>
 | [0061-rotate-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
