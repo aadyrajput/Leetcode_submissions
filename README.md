@@ -303,6 +303,7 @@ Author-Aadarsh Singh <great man>
 | [0151-reverse-words-in-a-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0332-reconstruct-itinerary) |
@@ -884,6 +885,7 @@ Author-Aadarsh Singh <great man>
 | [0160-intersection-of-two-linked-lists](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0242-valid-anagram) |
@@ -1595,6 +1597,7 @@ Author-Aadarsh Singh <great man>
 | [0146-lru-cache](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
@@ -1803,6 +1806,7 @@ Author-Aadarsh Singh <great man>
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
