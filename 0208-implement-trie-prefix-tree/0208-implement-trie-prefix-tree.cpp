@@ -1,38 +1,69 @@
-class TrieNode {
-public:
-    TrieNode *child[26];
-    bool isWord;
-    TrieNode() {
-        isWord = false;
-        for (auto &a : child) a = nullptr;
+struct Node{
+    Node* links[26];
+    bool flag=false;
+    bool containsKey(char ch){
+        return (links[ch-'a']!=NULL);
+    }
+    void put(char ch,Node* node){
+        links[ch-'a']=node;
+    }
+    Node* get(char ch){
+        return links[ch-'a'];
+    }
+    void setEnd(){
+        flag=true;
+    }
+    bool isEnd(){
+        return flag;
     }
 };
+
 class Trie {
-    TrieNode* root;
+    private:
+    Node* root;
+
 public:
     Trie() {
-        root = new TrieNode();
+        root=new Node();
     }
-    void insert(string s) {
-        TrieNode *p = root;
-        for (auto &a : s) {
-            int i = a - 'a';
-            if (!p->child[i]) p->child[i] = new TrieNode();
-            p = p->child[i];
+    
+    void insert(string word) {
+        Node* node=root;
+        for(int i=0;i<word.size(); i++){
+            if(!node->containsKey(word[i])){
+                node->put(word[i], new Node());
+            }
+            //moves to reference node
+            node=node->get(word[i]);
         }
-        p->isWord = true;
+     node->setEnd();
     }
-    bool search(string key, bool prefix=false) {
-        TrieNode *p = root;
-        for (auto &a : key) {
-            int i = a - 'a';
-            if (!p->child[i]) return false;
-            p = p->child[i];
+    
+    bool search(string word) {
+        Node* node=root;
+        for(int i=0;i<word.size(); i++){
+            if(node->containsKey(word[i])){
+                node= node->get(word[i]);
+            }
+            else {return false;} 
         }
-        if (prefix==false) return p->isWord;
+     return node->isEnd();
+   }
+    
+    bool startsWith(string prefix) {
+        Node* node=root;
+        for(int i=0;i<prefix.size(); i++){
+            if(!node->containsKey(prefix[i])) return false;
+            node=node->get(prefix[i]);
+        }    
         return true;
     }
-    bool startsWith(string prefix) {
-        return search(prefix, true);
-    }
 };
+
+/**
+ * Your Trie object will be instantiated and called as such:
+ * Trie* obj = new Trie();
+ * obj->insert(word);
+ * bool param_2 = obj->search(word);
+ * bool param_3 = obj->startsWith(prefix);
+ */
