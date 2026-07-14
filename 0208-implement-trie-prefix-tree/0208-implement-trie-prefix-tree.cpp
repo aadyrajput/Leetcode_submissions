@@ -19,10 +19,8 @@ struct Node{
 };
 
 class Trie {
-    private:
+    public:
     Node* root;
-
-public:
     Trie() {
         root=new Node();
     }
