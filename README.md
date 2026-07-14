@@ -720,6 +720,7 @@ Author-Aadarsh Singh <great man>
 | [1646-kth-missing-positive-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1646-kth-missing-positive-number) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1813-maximum-erasure-value) |
@@ -1497,6 +1498,7 @@ Author-Aadarsh Singh <great man>
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1829-maximum-xor-for-each-query) |
 | [1839-decode-xored-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1812,6 +1814,7 @@ Author-Aadarsh Singh <great man>
 | [0208-implement-trie-prefix-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
