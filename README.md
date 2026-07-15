@@ -380,6 +380,7 @@ Author-Aadarsh Singh <great man>
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3396-valid-word) |
@@ -418,6 +419,7 @@ Author-Aadarsh Singh <great man>
 | [1980-find-unique-binary-string](https://github.com/aadyrajput/Leetcode_submissions/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -1522,6 +1524,7 @@ Author-Aadarsh Singh <great man>
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3133-minimum-array-end](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3133-minimum-array-end) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
