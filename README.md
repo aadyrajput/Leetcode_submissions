@@ -1411,6 +1411,7 @@ Author-Aadarsh Singh <great man>
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1837,6 +1838,7 @@ Author-Aadarsh Singh <great man>
 | [2523-closest-prime-numbers-in-range](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aadyrajput/Leetcode_submissions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Segment Tree
