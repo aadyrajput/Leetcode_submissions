@@ -1,23 +1,28 @@
 class Solution {
 public:
-    void fun(int op,int cl,string s,vector<string>&ans,int n){
-        if(cl>op)return;
+    void fun(vector<string>&ans,int op,int cl,int n,string temp){
         if(op==n && cl==n){
-            ans.push_back(s);
+            ans.push_back(temp);
             return;
         }
-        if(op+1<=n){
-            fun(op+1,cl,s+"(",ans,n);
-        }
-        if(cl+1<=n){
-            fun(op,cl+1,s+")",ans,n);
+
+        if(op<n){        
+        temp.push_back('(');
+        fun(ans,op+1,cl,n,temp);
+        temp.pop_back();
         }
 
+        if(cl<n && cl<op){
+        temp.push_back(')');
+        fun(ans,op,cl+1,n,temp);
+        temp.pop_back();
+        }
     }
     vector<string> generateParenthesis(int n) {
-        string s="";
         vector<string> ans;
-        fun(0,0,s,ans,n);
+        int op=0, cl=0;
+        string temp="";
+        fun(ans,op,cl,n,temp);
         return ans;
     }
 };
