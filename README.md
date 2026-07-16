@@ -406,6 +406,7 @@ Author-Aadarsh Singh <great man>
 | [0051-n-queens](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0131-palindrome-partitioning) |
@@ -567,6 +568,7 @@ Author-Aadarsh Singh <great man>
 | [0084-largest-rectangle-in-histogram](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0118-pascals-triangle) |
@@ -1485,6 +1487,7 @@ Author-Aadarsh Singh <great man>
 | [0029-divide-two-integers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0190-reverse-bits) |
