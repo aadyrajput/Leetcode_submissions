@@ -1,53 +1,51 @@
 class Solution {
 public:
+    vector<vector<pair<int,int>>> ans;
+
     bool check(int row,int col,vector<int>&queen){
         for(int i=0;i<row; i++){
             int prow=i;
             int pcol=queen[i];
-            if((pcol==col) || abs(pcol-col)==abs(prow-row))return false;
+            if(pcol==col || abs(prow-row)==abs(pcol-col))return false;
         }
         return true;
     }
-
-    void fun(int i,int n,vector<pair<int,int>>&v, vector<vector<pair<int,int>>> &vv,    
-             vector<int> &queen){
+    void fun(int i,vector<int>&queen,vector<pair<int,int>>&temp,int n){
         if(i==n){
-            vv.push_back(v);
+            ans.push_back(temp);
+            return;
         }
 
-        for(int col=0; col<n; col++){
+        for(int col=0;col<n; col++){
             if(check(i,col,queen)){
                 queen[i]=col;
-                v.push_back({i,col});
-                fun(i+1,n,v,vv,queen);
+                temp.push_back({i,col});
+                fun(i+1,queen,temp,n);
                 queen[i]=-1;
+                temp.pop_back();
             }
         }
     }
+
     vector<vector<string>> solveNQueens(int n) {
-       vector<pair<int,int>> v;
-       vector<vector<pair<int,int>>> vv;
-    vector<int> queen(n,-1);
-    vector<vector<string>> ans;
+        vector<int> queen(n,-1);
+        vector<pair<int,int>> temp;
 
-    fun(0,n,v,vv,queen);
+        fun(0,queen,temp,n);
 
-    for(auto it:vv){
-        map<int,int> m;
-        for(auto itt:it){
-            m[itt.first]=itt.second;
+        vector<vector<string>> res;
+        string dum;
+        for(int i=0;i<n;i++)dum.push_back('.');
+
+        for(auto it:ans){
+            vector<string> v;
+            for(auto itt:it){
+                string s=dum;
+                s[itt.second]='Q';
+                v.push_back(s);
+            }
+            res.push_back(v);
         }
-        vector<string> tt;
-        string s="";
-        for(int i=0;i<n;i++)s+=".";
-        for(auto it:m){
-            s[it.second]='Q';
-            tt.push_back(s);
-            s[it.second]='.';
-        }
-        ans.push_back(tt);
-    }
-
-    return ans;
+        return res;
     }
 };
