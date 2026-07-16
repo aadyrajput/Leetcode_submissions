@@ -867,6 +867,7 @@ Author-Aadarsh Singh <great man>
 | [3791-fruits-into-baskets-iii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3827-implement-router) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3925-concatenate-array-with-reverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
@@ -1075,6 +1076,7 @@ Author-Aadarsh Singh <great man>
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1168,6 +1170,7 @@ Author-Aadarsh Singh <great man>
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1425,6 +1428,7 @@ Author-Aadarsh Singh <great man>
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Sliding Window
 |  |
@@ -1714,6 +1718,7 @@ Author-Aadarsh Singh <great man>
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -1848,6 +1853,7 @@ Author-Aadarsh Singh <great man>
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/aadyrajput/Leetcode_submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Segment Tree
 |  |
