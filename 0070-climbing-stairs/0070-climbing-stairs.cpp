@@ -1,15 +1,14 @@
-class Solution{
-private:
-int fun(int i,vector<int>&dp){
-    if(i<0)return 0;
-    if(i==0 || i==1)return 1;
-    if(dp[i]!=-1)return dp[i];
-    return dp[i]=fun(i-1,dp)+fun(i-2,dp);
-}
+class Solution {
 public:
+    int dp[50];
+    int fun(int x){
+        if(x<=2)return x;
+        if(dp[x]!=-1)return dp[x];
+        return dp[x]=fun(x-1)+fun(x-2);
+    }
     int climbStairs(int n) {
-      if(n<=2)return n;
-      vector<int> dp(n+1,-1);
-        return fun(n,dp);
+        if(n<=2)return n;
+        memset(dp,-1,sizeof(dp));
+        return fun(n);
     }
 };
