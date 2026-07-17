@@ -1363,6 +1363,7 @@ Author-Aadarsh Singh <great man>
 | [0013-roman-to-integer](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0070-climbing-stairs) |
@@ -1683,6 +1684,7 @@ Author-Aadarsh Singh <great man>
 | [0025-reverse-nodes-in-k-group](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aadyrajput/Leetcode_submissions/tree/master/0234-palindrome-linked-list) |
