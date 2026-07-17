@@ -1,12 +1,12 @@
 class Solution {
 private:
 int fun(int i,vector<int>&nums,vector<int>&dp){
-    if(i==0)return nums[0];
     if(i<0)return 0;
+    if(i==0)return nums[0];
     if(dp[i]!=-1)return dp[i];
-    int a=nums[i]+fun(i-2,nums,dp);
-    int b=fun(i-1,nums,dp);
-    return dp[i]=max(a,b);
+    int t1=nums[i]+fun(i-2,nums,dp);
+    int t2=fun(i-1,nums,dp);
+    return dp[i]=max(t1,t2);
 }
 
 public:
