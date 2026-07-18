@@ -1,37 +1,37 @@
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
-    void solveSudoku(vector<vector<char>>& board) {
-        solve(board,0,0);
+    void solveSudoku(vector<vector<char>>& b) {
+        solve(b);
     }
-
 private:
-bool solve(vector<vector<char>>&board,int x,int y){
-    if(x>=9)return true;
-    if(y>=9)return solve(board,x+1,0);
-    if(board[x][y]!='.') return solve(board,x,y+1);
-
-    for(char a='1'; a<='9'; a++){
-        if(isValid(x,y,a,board)){
-            board[x][y]=a;
-            if(solve(board,x,y+1))return true;
-            board[x][y]='.';
+    bool solve(vector<vector<char>>& b) {
+        for (int i = 0; i < 9; ++i) {
+            for (int j = 0; j < 9; ++j) {
+                if (b[i][j] == '.') {
+                    for (char c = '1'; c <= '9'; ++c) {
+                        if (valid(b, i, j, c)) {
+                            b[i][j] = c;
+                            if (solve(b)) return true;
+                            b[i][j] = '.';
+                        }
+                    }
+                    return false;
+                }
+            }
         }
+        return true;
     }
-    return false;
-}
 
-bool isValid(int row,int col,char c,vector<vector<char>>&board){
-    for(int i=0;i<9;i++)if(board[i][col]==c)return false;
-    for(int i=0;i<9;i++)if(board[row][i]==c)return false;
-
-    int z1=3*(row/3); int z2=3*(col/3);
-    for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
-            if(board[z1+i][z2+j]==c)return false;
+    bool valid(vector<vector<char>>& b, int r, int c, char v) {
+        for (int i = 0; i < 9; ++i) {
+            if (b[i][c] == v) return false;
+            if (b[r][i] == v) return false;
+            if (b[3 * (r / 3) + i / 3][3 * (c / 3) + i % 3] == v) return false;
         }
+        return true;
     }
-    return true;
-}
-
-
 };
